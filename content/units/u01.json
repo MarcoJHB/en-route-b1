@@ -1,0 +1,230 @@
+{
+  "id": "u01",
+  "week": 1,
+  "level": "A1+",
+  "theme": "Daily life",
+  "title": "Au marché et à la boulangerie",
+  "grammarFocus": "Partitive articles: du, de la, des, pas de",
+  "intro": "Shopping for food is where French articles bite: *du pain*, *de la viande*, but *pas de pain*. By Sunday you should be able to buy what you need at the market and bakery without hesitating over the little words.",
+  "grammar": [
+    {
+      "id": "u01g1",
+      "title": "Some: du, de la, de l’, des",
+      "body": "<p>When you talk about <strong>an unspecified amount</strong> of something (some bread, some water), French uses the <strong>partitive article</strong>. English often drops “some”; French never does.</p><table><tr><th>Before</th><th>Article</th><th>Example</th></tr><tr><td>masculine</td><td><strong>du</strong></td><td>du pain</td></tr><tr><td>feminine</td><td><strong>de la</strong></td><td>de la viande</td></tr><tr><td>vowel / h</td><td><strong>de l’</strong></td><td>de l’eau</td></tr><tr><td>plural</td><td><strong>des</strong></td><td>des tomates</td></tr></table><div class=\"rule\"><strong>Rule of thumb:</strong> with verbs of eating, drinking and buying (manger, boire, prendre, acheter, vouloir) use the partitive. With verbs of liking (aimer, adorer, détester, préférer) use <strong>le / la / les</strong>: <em>J’aime le fromage, alors j’achète du fromage.</em></div>",
+      "examples": [
+        ["Je voudrais du pain, s’il vous plaît.", "I’d like some bread, please."],
+        ["Tu bois de l’eau ?", "Are you drinking (some) water?"],
+        ["On achète de la viande pour ce soir.", "We’re buying (some) meat for tonight."],
+        ["J’adore le fromage, alors je prends du comté.", "I love cheese, so I’ll take some Comté."]
+      ]
+    },
+    {
+      "id": "u01g2",
+      "title": "Quantities and the negative: de / d’",
+      "body": "<p>After a <strong>quantity</strong> or a <strong>negative</strong>, du / de la / des all shrink to <strong>de</strong> (<strong>d’</strong> before a vowel).</p><table><tr><th>Positive</th><th>Quantity</th><th>Negative</th></tr><tr><td>du beurre</td><td>un peu <strong>de</strong> beurre</td><td>pas <strong>de</strong> beurre</td></tr><tr><td>de la farine</td><td>un kilo <strong>de</strong> farine</td><td>pas <strong>de</strong> farine</td></tr><tr><td>de l’eau</td><td>une bouteille <strong>d’</strong>eau</td><td>pas <strong>d’</strong>eau</td></tr><tr><td>des pommes</td><td>beaucoup <strong>de</strong> pommes</td><td>pas <strong>de</strong> pommes</td></tr></table><div class=\"tip\"><strong>Exception:</strong> after <em>être</em>, the article stays: <em>Ce n’est pas du beurre, c’est de la margarine.</em></div>",
+      "examples": [
+        ["Un kilo de tomates, s’il vous plaît.", "A kilo of tomatoes, please."],
+        ["Il n’y a plus de lait.", "There’s no more milk."],
+        ["Je ne mange pas de viande.", "I don’t eat meat."],
+        ["Vous avez assez d’argent ?", "Do you have enough money?"]
+      ]
+    }
+  ],
+  "vocab": [
+    { "id": "u01v01", "fr": "le pain", "en": "bread", "g": "m", "ex": "On achète du pain tous les matins.", "exEn": "We buy bread every morning." },
+    { "id": "u01v02", "fr": "la baguette", "en": "baguette", "g": "f", "ex": "Une baguette bien cuite, s’il vous plaît.", "exEn": "A well-baked baguette, please." },
+    { "id": "u01v03", "fr": "le croissant", "en": "croissant", "g": "m", "ex": "Les croissants sont encore chauds.", "exEn": "The croissants are still warm." },
+    { "id": "u01v04", "fr": "le gâteau", "en": "cake", "g": "m", "ex": "C’est un gâteau au chocolat.", "exEn": "It’s a chocolate cake.", "note": "Plural: les gâteau**x**" },
+    { "id": "u01v05", "fr": "le beurre", "en": "butter", "g": "m", "ex": "Tu mets du beurre sur ton pain ?", "exEn": "Do you put butter on your bread?" },
+    { "id": "u01v06", "fr": "l’eau", "en": "water", "g": "f", "alt": ["l'eau"], "ex": "Je bois de l’eau.", "exEn": "I drink water.", "note": "Feminine: *l’eau* hides it, but it’s *de l’eau fraîche*." },
+    { "id": "u01v07", "fr": "la boulangerie", "en": "bakery", "g": "f", "ex": "La boulangerie ouvre à sept heures.", "exEn": "The bakery opens at seven." },
+
+    { "id": "u01v08", "fr": "les légumes", "en": "vegetables", "g": "m", "ex": "Les légumes du marché sont frais.", "exEn": "The market vegetables are fresh." },
+    { "id": "u01v09", "fr": "les fruits", "en": "fruit", "g": "m", "ex": "Je mange des fruits le matin.", "exEn": "I eat fruit in the morning." },
+    { "id": "u01v10", "fr": "la pomme", "en": "apple", "g": "f", "ex": "Ces pommes viennent de Normandie.", "exEn": "These apples come from Normandy." },
+    { "id": "u01v11", "fr": "la tomate", "en": "tomato", "g": "f", "ex": "Les tomates sont mûres.", "exEn": "The tomatoes are ripe." },
+    { "id": "u01v12", "fr": "le fromage", "en": "cheese", "g": "m", "ex": "Quel fromage vous me conseillez ?", "exEn": "Which cheese do you recommend?" },
+    { "id": "u01v13", "fr": "le poisson", "en": "fish", "g": "m", "ex": "Le poisson arrive du port ce matin.", "exEn": "The fish comes in from the harbour this morning." },
+    { "id": "u01v14", "fr": "la viande", "en": "meat", "g": "f", "ex": "Je ne mange pas beaucoup de viande.", "exEn": "I don’t eat much meat." },
+
+    { "id": "u01v15", "fr": "un kilo de", "en": "a kilo of", "ex": "Un kilo de pommes de terre, s’il vous plaît.", "exEn": "A kilo of potatoes, please." },
+    { "id": "u01v16", "fr": "une bouteille de", "en": "a bottle of", "ex": "Une bouteille de vin rouge.", "exEn": "A bottle of red wine." },
+    { "id": "u01v17", "fr": "un morceau de", "en": "a piece of", "ex": "Un petit morceau de fromage.", "exEn": "A small piece of cheese." },
+    { "id": "u01v18", "fr": "une tranche de", "en": "a slice of", "ex": "Quatre tranches de jambon.", "exEn": "Four slices of ham." },
+    { "id": "u01v19", "fr": "beaucoup de", "en": "a lot of, many", "ex": "Il y a beaucoup de monde au marché.", "exEn": "There are lots of people at the market." },
+    { "id": "u01v20", "fr": "un peu de", "en": "a little, a bit of", "ex": "Un peu de sel ?", "exEn": "A bit of salt?" },
+    { "id": "u01v21", "fr": "assez de", "en": "enough", "ex": "On a assez de pain pour ce soir.", "exEn": "We have enough bread for tonight." },
+
+    { "id": "u01v22", "fr": "je voudrais", "en": "I would like", "ex": "Je voudrais deux croissants.", "exEn": "I’d like two croissants.", "note": "Politer than *je veux*." },
+    { "id": "u01v23", "fr": "combien ça coûte ?", "en": "how much does it cost?", "alt": ["combien ca coute", "ça coûte combien ?"], "ex": "Excusez-moi, combien ça coûte ?", "exEn": "Excuse me, how much is it?" },
+    { "id": "u01v24", "fr": "et avec ceci ?", "en": "anything else? (shop assistant)", "ex": "— Et avec ceci ? — C’est tout, merci.", "exEn": "— Anything else? — That’s all, thanks." },
+    { "id": "u01v25", "fr": "c’est tout", "en": "that’s all", "alt": ["c'est tout"], "ex": "Non merci, c’est tout.", "exEn": "No thanks, that’s all." },
+    { "id": "u01v26", "fr": "la monnaie", "en": "change (coins)", "g": "f", "ex": "Vous avez de la monnaie ?", "exEn": "Do you have change?" },
+    { "id": "u01v27", "fr": "payer par carte", "en": "to pay by card", "ex": "Je peux payer par carte ?", "exEn": "Can I pay by card?" },
+    { "id": "u01v28", "fr": "ça fait combien ?", "en": "how much is that (in total)?", "alt": ["ca fait combien"], "ex": "Ça fait combien en tout ?", "exEn": "How much is that altogether?" }
+  ],
+  "lessons": [
+    {
+      "id": "u01l1",
+      "title": "À la boulangerie",
+      "intro": "Bread, butter and the first of the little words: **du**, **de la**, **de l’**.",
+      "vocab": ["u01v01", "u01v02", "u01v03", "u01v04", "u01v05", "u01v06", "u01v07"],
+      "grammar": "u01g1",
+      "steps": [
+        { "t": "dialogue", "title": "Le samedi matin", "lines": [
+          ["Boulangère", "Bonjour monsieur ! Qu’est-ce que je vous sers ?", "Hello sir! What can I get you?"],
+          ["Marco", "Bonjour ! Je voudrais une baguette et deux croissants, s’il vous plaît.", "Hello! I’d like a baguette and two croissants, please."],
+          ["Boulangère", "Et avec ceci ?", "Anything else?"],
+          ["Marco", "Vous avez du pain aux céréales ?", "Do you have any multigrain bread?"],
+          ["Boulangère", "Oui, bien sûr. Et voilà. Ça fait six euros vingt.", "Yes, of course. Here you are. That’s six euros twenty."],
+          ["Marco", "Merci, bonne journée !", "Thanks, have a good day!"]
+        ]},
+        { "t": "choice", "q": "What does Marco want besides the baguette and croissants?", "opts": ["Multigrain bread", "A cake", "Butter", "Water"], "a": 0 },
+        { "t": "cloze", "q": "Je voudrais ___ pain, s’il vous plaît.", "a": ["du"], "en": "I’d like some bread, please.", "why": "*pain* is masculine → **du**." },
+        { "t": "cloze", "q": "Tu bois ___ eau ?", "a": ["de l’", "de l'"], "full": "Tu bois de l’eau ?", "en": "Are you drinking water?", "why": "Before a vowel → **de l’**." },
+        { "t": "choice", "q": "J’adore ___ croissants !", "opts": ["les", "des", "du"], "a": 0, "why": "After *adorer* (a liking verb) we use **le / la / les**." },
+        { "t": "choice", "q": "On achète ___ gâteau pour l’anniversaire ?", "opts": ["un", "du", "de la"], "a": 0, "why": "A whole cake you can count → **un gâteau**. *Du gâteau* would be “some cake” (a slice)." },
+        { "t": "order", "fr": "Je voudrais du pain et du beurre.", "en": "I’d like some bread and some butter." },
+        { "t": "type", "q": "Translate: **Do you have any butter?** (polite *vous*)", "a": ["Vous avez du beurre ?", "Avez-vous du beurre ?", "Est-ce que vous avez du beurre ?"] }
+      ]
+    },
+    {
+      "id": "u01l2",
+      "title": "Au marché",
+      "intro": "Fruit, vegetables and the market stalls — plus **des** for plurals.",
+      "vocab": ["u01v08", "u01v09", "u01v10", "u01v11", "u01v12", "u01v13", "u01v14"],
+      "steps": [
+        { "t": "note", "kind": "Reminder", "html": "<p><strong>des</strong> = some (plural): <em>des pommes, des tomates</em>.</p><p>Masculine or feminine doesn’t matter in the plural — it’s always <strong>des</strong>.</p>" },
+        { "t": "dialogue", "title": "Au marché de La Rochelle", "lines": [
+          ["Marchand", "Bonjour ! Elles sont belles, mes tomates, hein ?", "Hello! Lovely tomatoes, eh?"],
+          ["Marco", "Oui ! Je vais prendre des tomates et des pommes.", "Yes! I’ll take some tomatoes and some apples."],
+          ["Marchand", "Combien de pommes ?", "How many apples?"],
+          ["Marco", "Six, s’il vous plaît. Et vous avez du fromage de chèvre ?", "Six, please. And do you have any goat’s cheese?"],
+          ["Marchand", "Non, pas ici. Le fromager est à côté du poissonnier.", "No, not here. The cheese seller is next to the fishmonger."]
+        ]},
+        { "t": "choice", "q": "Where is the cheese seller?", "opts": ["Next to the fishmonger", "At the bakery", "Opposite the church", "He doesn’t know"], "a": 0 },
+        { "t": "cloze", "q": "Je vais prendre ___ pommes.", "a": ["des"], "en": "I’ll take some apples." },
+        { "t": "cloze", "q": "Le soir, on mange ___ poisson.", "a": ["du"], "en": "In the evening we eat fish." },
+        { "t": "cloze", "q": "Tu veux ___ viande ou ___ poisson ?", "a": ["de la, du", "de la du", "de la / du"], "full": "Tu veux de la viande ou du poisson ?", "en": "Do you want meat or fish?", "hint": "Two gaps: write both, separated by a comma." },
+        { "t": "listen", "fr": "Je prends des légumes et des fruits.", "opts": ["I’m taking some vegetables and some fruit.", "I like vegetables and fruit.", "I’m selling vegetables and fruit."], "a": 0 },
+        { "t": "order", "fr": "Vous avez du fromage de chèvre ?", "en": "Do you have any goat’s cheese?" },
+        { "t": "type", "q": "Translate: **I’m buying some vegetables at the market.**", "a": ["J’achète des légumes au marché.", "J'achète des légumes au marché."] }
+      ]
+    },
+    {
+      "id": "u01l3",
+      "title": "Un kilo, une tranche, un peu",
+      "intro": "Quantities — and why **du** turns into **de** after them.",
+      "vocab": ["u01v15", "u01v16", "u01v17", "u01v18", "u01v19", "u01v20", "u01v21"],
+      "grammar": "u01g2",
+      "steps": [
+        { "t": "cloze", "q": "Un kilo ___ tomates, s’il vous plaît.", "a": ["de"], "en": "A kilo of tomatoes, please.", "why": "After a quantity: **de**, never *des*." },
+        { "t": "cloze", "q": "Une bouteille ___ eau minérale.", "a": ["d’", "d'"], "full": "Une bouteille d’eau minérale.", "en": "A bottle of mineral water." },
+        { "t": "choice", "q": "Je ne mange pas ___ viande.", "opts": ["de", "de la", "du"], "a": 0, "why": "Negative → **de**." },
+        { "t": "choice", "q": "Ce n’est pas ___ beurre, c’est de la margarine.", "opts": ["du", "de", "le"], "a": 0, "why": "After **être**, the article stays: *ce n’est pas du beurre*." },
+        { "t": "cloze", "q": "Il y a beaucoup ___ monde aujourd’hui !", "a": ["de"], "en": "There are a lot of people today!" },
+        { "t": "cloze", "q": "On n’a plus ___ pain.", "a": ["de"], "en": "We have no more bread." },
+        { "t": "order", "fr": "Je voudrais quatre tranches de jambon.", "en": "I’d like four slices of ham." },
+        { "t": "type", "q": "Translate: **We don’t have enough water.** (use *on*)", "a": ["On n’a pas assez d’eau.", "On n'a pas assez d'eau.", "On a pas assez d’eau.", "On a pas assez d'eau."], "why": "*assez d’eau* — quantity word + **d’** before a vowel." }
+      ]
+    },
+    {
+      "id": "u01l4",
+      "title": "Payer et dire au revoir",
+      "intro": "The phrases that get you through the till smoothly.",
+      "vocab": ["u01v22", "u01v23", "u01v24", "u01v25", "u01v26", "u01v27", "u01v28"],
+      "steps": [
+        { "t": "dialogue", "title": "À la caisse", "lines": [
+          ["Fromager", "Et avec ceci ?", "Anything else?"],
+          ["Claire", "C’est tout, merci. Ça fait combien ?", "That’s all, thanks. How much is it?"],
+          ["Fromager", "Douze euros cinquante.", "Twelve euros fifty."],
+          ["Claire", "Je peux payer par carte ?", "Can I pay by card?"],
+          ["Fromager", "Oui, sans contact si vous voulez.", "Yes, contactless if you like."],
+          ["Claire", "Parfait. Merci, au revoir !", "Perfect. Thank you, goodbye!"]
+        ]},
+        { "t": "choice", "q": "The shop assistant asks *Et avec ceci ?* You have everything. You say:", "opts": ["C’est tout, merci.", "Combien ça coûte ?", "Je voudrais la monnaie."], "a": 0 },
+        { "t": "choice", "q": "Which is the most polite?", "opts": ["Je voudrais un pain de campagne.", "Je veux un pain de campagne.", "Donnez un pain de campagne."], "a": 0 },
+        { "t": "listen", "fr": "Ça fait huit euros quarante.", "opts": ["That’s €8.40.", "That’s €18.40.", "That’s €8.14."], "a": 0 },
+        { "t": "listen", "fr": "Vous avez de la monnaie ?", "opts": ["Do you have change?", "Do you have a card?", "Do you have any money left?"], "a": 0 },
+        { "t": "order", "fr": "Je peux payer par carte ?", "en": "Can I pay by card?" },
+        { "t": "type", "q": "Translate: **I’d like a bottle of water and a piece of cake.**", "a": ["Je voudrais une bouteille d’eau et un morceau de gâteau.", "Je voudrais une bouteille d'eau et un morceau de gâteau."] }
+      ]
+    }
+  ],
+  "drills": [
+    { "id": "u01d01", "l": "u01l1", "t": "cloze", "q": "Le matin, je mange ___ pain avec ___ beurre.", "a": ["du, du", "du du", "du / du"], "full": "Le matin, je mange du pain avec du beurre.", "en": "In the morning I eat bread with butter.", "hint": "two gaps, separate with a comma" },
+    { "id": "u01d02", "l": "u01l1", "t": "cloze", "q": "Tu veux ___ eau ?", "a": ["de l’", "de l'"], "full": "Tu veux de l’eau ?", "en": "Do you want some water?" },
+    { "id": "u01d03", "l": "u01l1", "t": "cloze", "q": "J’aime ___ pain frais.", "a": ["le"], "en": "I like fresh bread.", "why": "*aimer* → le / la / les." },
+    { "id": "u01d04", "l": "u01l1", "t": "type", "q": "Translate: **She’s buying some croissants.**", "a": ["Elle achète des croissants."] },
+    { "id": "u01d05", "l": "u01l2", "t": "cloze", "q": "On mange ___ légumes tous les jours.", "a": ["des"], "en": "We eat vegetables every day." },
+    { "id": "u01d06", "l": "u01l2", "t": "cloze", "q": "Je prends ___ fromage et ___ tomates.", "a": ["du, des", "du des", "du / des"], "full": "Je prends du fromage et des tomates.", "en": "I’ll take some cheese and some tomatoes.", "hint": "two gaps" },
+    { "id": "u01d07", "l": "u01l2", "t": "type", "q": "Translate: **Do you want meat?** (informal *tu*)", "a": ["Tu veux de la viande ?", "Est-ce que tu veux de la viande ?", "Veux-tu de la viande ?"] },
+    { "id": "u01d08", "l": "u01l2", "t": "choice", "q": "Mon fils déteste ___ poisson.", "opts": ["le", "du", "de"], "a": 0, "why": "*détester* is a liking verb → **le**." },
+    { "id": "u01d09", "l": "u01l3", "t": "cloze", "q": "Je ne bois pas ___ café le soir.", "a": ["de"], "en": "I don’t drink coffee in the evening." },
+    { "id": "u01d10", "l": "u01l3", "t": "cloze", "q": "Un peu ___ sucre ?", "a": ["de"], "en": "A bit of sugar?" },
+    { "id": "u01d11", "l": "u01l3", "t": "cloze", "q": "Il n’y a pas ___ œufs.", "a": ["d’", "d'"], "full": "Il n’y a pas d’œufs.", "en": "There are no eggs." },
+    { "id": "u01d12", "l": "u01l3", "t": "type", "q": "Translate: **A kilo of apples, please.**", "a": ["Un kilo de pommes, s’il vous plaît.", "Un kilo de pommes, s'il vous plaît.", "Un kilo de pommes s’il vous plaît", "Un kilo de pommes"] },
+    { "id": "u01d13", "l": "u01l3", "t": "order", "fr": "Il n’y a plus de lait dans le frigo.", "en": "There’s no more milk in the fridge." },
+    { "id": "u01d14", "l": "u01l4", "t": "type", "q": "Translate: **How much is that altogether?**", "a": ["Ça fait combien en tout ?", "Ca fait combien en tout ?", "Ça fait combien au total ?"] },
+    { "id": "u01d15", "l": "u01l4", "t": "type", "q": "Translate: **No thanks, that’s all.**", "a": ["Non merci, c’est tout.", "Non merci, c'est tout.", "Non, merci, c’est tout."] },
+    { "id": "u01d16", "l": "u01l4", "t": "choice", "q": "Vous avez ___ monnaie ?", "opts": ["de la", "du", "des"], "a": 0, "why": "*la monnaie* is feminine." }
+  ],
+  "dictation": [
+    { "fr": "Je voudrais une baguette, s’il vous plaît.", "en": "I’d like a baguette, please." },
+    { "fr": "On achète du pain tous les matins.", "en": "We buy bread every morning." },
+    { "fr": "Il n’y a plus de beurre.", "en": "There’s no more butter." },
+    { "fr": "Un kilo de tomates et six pommes.", "en": "A kilo of tomatoes and six apples." },
+    { "fr": "Vous avez du fromage de chèvre ?", "en": "Do you have any goat’s cheese?" },
+    { "fr": "Je ne mange pas beaucoup de viande.", "en": "I don’t eat much meat." },
+    { "fr": "Ça fait douze euros cinquante.", "en": "That’s twelve euros fifty." },
+    { "fr": "Je peux payer par carte ?", "en": "Can I pay by card?" },
+    { "fr": "Le poisson arrive du port ce matin.", "en": "The fish comes from the harbour this morning." },
+    { "fr": "Tu bois de l’eau ou du vin ?", "en": "Are you drinking water or wine?" }
+  ],
+  "speaking": [
+    { "type": "repeat", "fr": "Je voudrais deux croissants, s’il vous plaît.", "en": "I’d like two croissants, please." },
+    { "type": "repeat", "fr": "Combien ça coûte ?", "en": "How much does it cost?" },
+    { "type": "repeat", "fr": "Non merci, c’est tout.", "en": "No thanks, that’s all." },
+    { "type": "repeat", "fr": "Un kilo de pommes de terre.", "en": "A kilo of potatoes." },
+    { "type": "repeat", "fr": "Je ne mange pas de viande.", "en": "I don’t eat meat." },
+    { "type": "answer", "q": "Qu’est-ce que vous mangez au petit-déjeuner ?", "qEn": "What do you eat for breakfast?", "hint": "du pain, du beurre, des fruits…", "sample": "Au petit-déjeuner, je mange du pain avec du beurre et je bois du café.", "sampleEn": "For breakfast I eat bread with butter and drink coffee." },
+    { "type": "answer", "q": "Qu’est-ce que vous achetez au marché ?", "qEn": "What do you buy at the market?", "hint": "des légumes, du fromage, un kilo de…", "sample": "Au marché, j’achète des légumes, des fruits et un morceau de fromage.", "sampleEn": "At the market I buy vegetables, fruit and a piece of cheese." },
+    { "type": "answer", "q": "Qu’est-ce que vous ne mangez pas ?", "qEn": "What don’t you eat?", "hint": "Je ne mange pas de…", "sample": "Je ne mange pas de poisson cru et je ne bois pas de lait.", "sampleEn": "I don’t eat raw fish and I don’t drink milk." },
+    { "type": "answer", "q": "Vous êtes à la boulangerie. Qu’est-ce que vous dites ?", "qEn": "You’re at the bakery. What do you say?", "hint": "Bonjour, je voudrais…", "sample": "Bonjour madame, je voudrais une baguette et deux pains au chocolat, s’il vous plaît.", "sampleEn": "Hello, I’d like a baguette and two pains au chocolat, please." }
+  ],
+  "reading": {
+    "title": "Le marché du samedi",
+    "text": "Tous les samedis, Marco et Claire vont au marché. Ils partent tôt, vers huit heures et demie, parce qu’après il y a beaucoup de monde.\nD’abord, ils passent à la boulangerie. Ils achètent une baguette et des croissants pour le petit-déjeuner. Ensuite, ils vont voir le maraîcher. Ses légumes viennent d’une ferme à côté de Rochefort. Claire prend des tomates, des courgettes et un kilo de pommes de terre.\nMarco adore le fromage, alors il s’arrête toujours chez le fromager. Aujourd’hui, il prend un morceau de comté et un petit chèvre. Le fromager lui donne une tranche de tomme à goûter.\nIls ne prennent pas de poisson aujourd’hui : il y a déjà du poisson dans le congélateur. À dix heures, ils boivent un café en terrasse. C’est leur moment préféré de la semaine.",
+    "en": "Every Saturday, Marco and Claire go to the market. They leave early, around half past eight, because afterwards it gets very crowded.\nFirst they stop at the bakery. They buy a baguette and some croissants for breakfast. Then they go and see the vegetable grower. His vegetables come from a farm near Rochefort. Claire takes some tomatoes, some courgettes and a kilo of potatoes.\nMarco loves cheese, so he always stops at the cheese seller’s. Today he takes a piece of Comté and a small goat’s cheese. The cheese seller gives him a slice of tomme to taste.\nThey don’t buy fish today: there’s already fish in the freezer. At ten o’clock they have a coffee on a café terrace. It’s their favourite moment of the week.",
+    "gloss": { "tôt": "early", "monde": "people (beaucoup de monde = crowded)", "maraîcher": "market gardener, veg grower", "ferme": "farm", "courgettes": "courgettes / zucchini", "s’arrête": "stops", "goûter": "to taste", "congélateur": "freezer", "terrasse": "café terrace", "préféré": "favourite", "d’abord": "first", "ensuite": "then", "déjà": "already", "partent": "leave" },
+    "questions": [
+      { "q": "Pourquoi partent-ils tôt ?", "opts": ["Parce qu’après il y a beaucoup de monde", "Parce que le marché ferme à neuf heures", "Parce qu’ils travaillent"], "a": 0 },
+      { "q": "D’où viennent les légumes ?", "opts": ["D’une ferme près de Rochefort", "D’Espagne", "Du supermarché"], "a": 0 },
+      { "q": "Qu’est-ce que Marco achète chez le fromager ?", "opts": ["Du comté et un petit chèvre", "Une tranche de tomme", "Du beurre"], "a": 0 },
+      { "q": "Pourquoi n’achètent-ils pas de poisson ?", "opts": ["Ils en ont déjà au congélateur", "Ils n’aiment pas le poisson", "Il est trop cher"], "a": 0 }
+    ]
+  },
+  "civicsReading": {
+    "title": "Les symboles de la République",
+    "text": "La France a plusieurs symboles. Le drapeau est bleu, blanc et rouge : on l’appelle le drapeau tricolore. On le voit sur les mairies et les écoles.\nLa devise de la République est « Liberté, Égalité, Fraternité ». Elle est écrite sur la façade des bâtiments publics.\nL’hymne national s’appelle La Marseillaise. On le chante pendant les cérémonies officielles et avant les matchs de l’équipe de France.\nMarianne est une femme qui représente la République. Son buste est dans toutes les mairies, et son visage est sur les timbres.\nLa fête nationale est le 14 juillet. Ce jour-là, il y a un grand défilé militaire à Paris, sur les Champs-Élysées, et des feux d’artifice dans beaucoup de villes.",
+    "en": "France has several symbols. The flag is blue, white and red: it’s called the tricolour. You see it on town halls and schools.\nThe motto of the Republic is “Liberty, Equality, Fraternity”. It’s written on the front of public buildings.\nThe national anthem is called La Marseillaise. It’s sung at official ceremonies and before France’s team plays.\nMarianne is a woman who represents the Republic. Her bust is in every town hall, and her face is on stamps.\nThe national holiday is 14 July. On that day there’s a big military parade in Paris on the Champs-Élysées, and fireworks in many towns.",
+    "gloss": { "drapeau": "flag", "mairies": "town halls", "devise": "motto", "façade": "front (of a building)", "bâtiments": "buildings", "hymne": "anthem", "chante": "sings", "buste": "bust (statue)", "timbres": "stamps", "défilé": "parade", "feux": "fires (feux d’artifice = fireworks)", "artifice": "(feux d’artifice = fireworks)", "plusieurs": "several", "visage": "face" },
+    "questions": [
+      { "q": "Quelle est la devise de la République ?", "opts": ["Liberté, Égalité, Fraternité", "Travail, Famille, Patrie", "Unité, Paix, Justice"], "a": 0 },
+      { "q": "Comment s’appelle l’hymne national ?", "opts": ["La Marseillaise", "Le Chant des partisans", "L’Internationale"], "a": 0 },
+      { "q": "Qui est Marianne ?", "opts": ["Une figure qui représente la République", "La première présidente", "Une reine de France"], "a": 0 },
+      { "q": "Quand est la fête nationale ?", "opts": ["Le 14 juillet", "Le 1er mai", "Le 11 novembre"], "a": 0 }
+    ]
+  },
+  "writing": {
+    "id": "u01w",
+    "title": "Mes courses",
+    "prompt": "Racontez vos courses de la semaine. Où allez-vous ? Qu’est-ce que vous achetez ? Qu’est-ce que vous n’achetez pas ? (60–80 mots)",
+    "promptEn": "Describe your weekly shopping. Where do you go? What do you buy? What don’t you buy? (60–80 words)",
+    "minWords": 60,
+    "useful": ["d’abord… ensuite… enfin", "j’achète du / de la / des…", "je ne prends pas de…", "un kilo de, une bouteille de, un morceau de", "parce que…", "j’adore le / la / les…"],
+    "checklist": ["I used du / de la / des at least three times", "I used a quantity (un kilo de, beaucoup de…) with de", "I wrote at least one negative with pas de", "I used aimer / adorer with le / la / les", "I linked ideas with d’abord / ensuite / parce que"],
+    "model": "Je fais mes courses le samedi matin. D’abord, je vais à la boulangerie : j’achète une baguette et des croissants. Ensuite, je vais au marché. Je prends des légumes, un kilo de tomates et des pommes. J’adore le fromage, alors j’achète toujours un morceau de comté. Je ne prends pas de viande parce que nous en mangeons peu. Enfin, je passe au supermarché pour l’eau et le café.",
+    "modelEn": "I do my shopping on Saturday morning. First I go to the bakery: I buy a baguette and some croissants. Then I go to the market. I get vegetables, a kilo of tomatoes and some apples. I love cheese, so I always buy a piece of Comté. I don’t get meat because we eat little of it. Finally I stop at the supermarket for water and coffee."
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "id": "u04",
+  "week": 4,
+  "level": "A2",
+  "theme": "Social & family",
+  "title": "Sorties et voyages",
+  "grammarFocus": "Passé composé with être",
+  "intro": "About fifteen verbs of movement — plus every reflexive verb — use **être** instead of avoir in the passé composé, and the participle agrees: *elle est partie, nous sommes arrivés*. This week: trips, train journeys and nights out.",
+  "grammar": [
+    {
+      "id": "u04g1",
+      "title": "Passé composé with être",
+      "body": "<p>These verbs (mostly about <strong>coming, going, staying, being born and dying</strong>) use <strong>être</strong>:</p><table><tr><th>Verb</th><th>Participle</th><th>Verb</th><th>Participle</th></tr><tr><td>aller</td><td>allé</td><td>venir</td><td>venu</td></tr><tr><td>arriver</td><td>arrivé</td><td>partir</td><td>parti</td></tr><tr><td>entrer</td><td>entré</td><td>sortir</td><td>sorti</td></tr><tr><td>monter</td><td>monté</td><td>descendre</td><td>descendu</td></tr><tr><td>rester</td><td>resté</td><td>tomber</td><td>tombé</td></tr><tr><td>naître</td><td>né</td><td>mourir</td><td>mort</td></tr><tr><td>rentrer</td><td>rentré</td><td>revenir</td><td>revenu</td></tr></table><div class=\"rule\"><strong>Agreement:</strong> with être, the participle agrees with the subject like an adjective: +<strong>e</strong> feminine, +<strong>s</strong> plural.<br><em>Il est allé · Elle est allé<strong>e</strong> · Ils sont allé<strong>s</strong> · Elles sont allé<strong>es</strong></em></div><table><tr><th>être</th><th></th></tr><tr><td>je <strong>suis</strong> parti(e)</td><td>nous <strong>sommes</strong> parti(e)s</td></tr><tr><td>tu <strong>es</strong> parti(e)</td><td>vous <strong>êtes</strong> parti(e)(s)</td></tr><tr><td>il / elle / on <strong>est</strong> parti(e)</td><td>ils / elles <strong>sont</strong> parti(e)s</td></tr></table><div class=\"tip\">With <strong>on</strong> meaning “we”, the participle usually agrees with the people: <em>Claire et moi, on est allé<strong>s</strong> au cinéma.</em></div>",
+      "examples": [
+        ["Je suis allé à Bordeaux en train.", "I went to Bordeaux by train."],
+        ["Elle est arrivée en retard.", "She arrived late."],
+        ["Nous sommes restés trois jours.", "We stayed three days."],
+        ["Mes parents sont nés en Italie.", "My parents were born in Italy."]
+      ]
+    },
+    {
+      "id": "u04g2",
+      "title": "Reflexive verbs in the past",
+      "body": "<p><strong>All reflexive verbs</strong> use être in the passé composé, and they agree too.</p><table><tr><td>je <strong>me suis</strong> levé(e)</td><td>nous <strong>nous sommes</strong> promené(e)s</td></tr><tr><td>tu <strong>t’es</strong> amusé(e)</td><td>vous <strong>vous êtes</strong> perdu(e)(s)</td></tr><tr><td>il <strong>s’est</strong> couché · elle <strong>s’est</strong> couchée</td><td>ils <strong>se sont</strong> retrouvés</td></tr></table><div class=\"rule\"><strong>Negative:</strong> <em>ne</em> before the pronoun, <em>pas</em> after être: <em>Je <strong>ne</strong> me suis <strong>pas</strong> réveillé.</em> · <em>Il <strong>n’</strong>est <strong>pas</strong> venu.</em></div>",
+      "examples": [
+        ["On s’est bien amusés !", "We had a great time!"],
+        ["Elle s’est perdue dans la vieille ville.", "She got lost in the old town."],
+        ["Je ne me suis pas levé tôt.", "I didn’t get up early."],
+        ["Vous vous êtes retrouvés où ?", "Where did you meet up?"]
+      ]
+    }
+  ],
+  "vocab": [
+    { "id": "u04v01", "fr": "aller", "en": "to go", "ex": "Nous sommes allés à Nantes.", "exEn": "We went to Nantes." },
+    { "id": "u04v02", "fr": "venir", "en": "to come", "ex": "Ils sont venus dîner.", "exEn": "They came for dinner." },
+    { "id": "u04v03", "fr": "arriver", "en": "to arrive", "ex": "Le train est arrivé à l’heure.", "exEn": "The train arrived on time." },
+    { "id": "u04v04", "fr": "partir", "en": "to leave", "ex": "Elle est partie à six heures.", "exEn": "She left at six." },
+    { "id": "u04v05", "fr": "rentrer", "en": "to go/come home", "ex": "On est rentrés très tard.", "exEn": "We got home very late." },
+    { "id": "u04v06", "fr": "rester", "en": "to stay", "ex": "Je suis resté à la maison.", "exEn": "I stayed at home.", "note": "False friend: *rester* = stay, not rest (*se reposer*)." },
+    { "id": "u04v07", "fr": "sortir", "en": "to go out", "ex": "Vous êtes sortis samedi soir ?", "exEn": "Did you go out on Saturday night?" },
+
+    { "id": "u04v08", "fr": "la gare", "en": "train station", "g": "f", "ex": "On s’est retrouvés à la gare.", "exEn": "We met at the station." },
+    { "id": "u04v09", "fr": "le billet", "en": "ticket", "g": "m", "ex": "J’ai acheté les billets en ligne.", "exEn": "I bought the tickets online." },
+    { "id": "u04v10", "fr": "le voyage", "en": "trip, journey", "g": "m", "ex": "Le voyage a duré deux heures.", "exEn": "The journey took two hours." },
+    { "id": "u04v11", "fr": "en retard", "en": "late (behind schedule)", "ex": "Le TGV est arrivé en retard.", "exEn": "The TGV arrived late." },
+    { "id": "u04v12", "fr": "à l’heure", "en": "on time", "alt": ["à l'heure"], "ex": "Pour une fois, il est à l’heure !", "exEn": "For once, he’s on time!" },
+    { "id": "u04v13", "fr": "la valise", "en": "suitcase", "g": "f", "ex": "J’ai oublié ma valise dans le train !", "exEn": "I left my suitcase on the train!" },
+    { "id": "u04v14", "fr": "le quai", "en": "platform; quay", "g": "m", "ex": "Le train part du quai numéro trois.", "exEn": "The train leaves from platform three." },
+
+    { "id": "u04v15", "fr": "la plage", "en": "beach", "g": "f", "ex": "On est descendus à la plage.", "exEn": "We went down to the beach." },
+    { "id": "u04v16", "fr": "la montagne", "en": "mountains", "g": "f", "ex": "L’hiver dernier, on est allés à la montagne.", "exEn": "Last winter we went to the mountains." },
+    { "id": "u04v17", "fr": "l’île", "en": "island", "g": "f", "alt": ["l'île"], "ex": "Nous sommes allés à l’île de Ré à vélo.", "exEn": "We cycled to the Île de Ré." },
+    { "id": "u04v18", "fr": "visiter", "en": "to visit (a place)", "ex": "On a visité le vieux port.", "exEn": "We visited the old harbour.", "note": "Places only. For people: *rendre visite à*. Uses **avoir**." },
+    { "id": "u04v19", "fr": "monter", "en": "to go up, climb", "ex": "Nous sommes montés en haut de la tour.", "exEn": "We went up to the top of the tower." },
+    { "id": "u04v20", "fr": "descendre", "en": "to go down; to get off", "ex": "Je suis descendu du bus.", "exEn": "I got off the bus." },
+    { "id": "u04v21", "fr": "tomber", "en": "to fall", "ex": "Il est tombé de vélo.", "exEn": "He fell off his bike." },
+
+    { "id": "u04v22", "fr": "se retrouver", "en": "to meet up", "ex": "On s’est retrouvés devant le cinéma.", "exEn": "We met up in front of the cinema." },
+    { "id": "u04v23", "fr": "s’amuser", "en": "to have fun", "alt": ["s'amuser"], "ex": "Les enfants se sont bien amusés.", "exEn": "The children had great fun." },
+    { "id": "u04v24", "fr": "se perdre", "en": "to get lost", "ex": "Je me suis perdu en ville.", "exEn": "I got lost in town." },
+    { "id": "u04v25", "fr": "le spectacle", "en": "show", "g": "m", "ex": "Le spectacle a commencé à vingt et une heures.", "exEn": "The show started at 9 pm." },
+    { "id": "u04v26", "fr": "la sortie", "en": "outing, night out; exit", "g": "f", "ex": "C’était une belle sortie.", "exEn": "It was a lovely outing." },
+    { "id": "u04v27", "fr": "c’était", "en": "it was", "alt": ["c'était"], "ex": "C’était génial !", "exEn": "It was great!", "note": "The past of *c’est* for describing — very common." },
+    { "id": "u04v28", "fr": "un week-end prolongé", "en": "a long weekend", "ex": "On a fait un week-end prolongé à Bordeaux.", "exEn": "We had a long weekend in Bordeaux." }
+  ],
+  "lessons": [
+    {
+      "id": "u04l1",
+      "title": "Aller, venir, partir",
+      "intro": "Which verbs take **être** — and why the participle changes.",
+      "vocab": ["u04v01", "u04v02", "u04v03", "u04v04", "u04v05", "u04v06", "u04v07"],
+      "grammar": "u04g1",
+      "steps": [
+        { "t": "choice", "q": "Hier, je ___ allé au marché.", "opts": ["suis", "ai", "est"], "a": 0 },
+        { "t": "choice", "q": "Hier, j’___ mangé au marché.", "opts": ["ai", "suis", "es"], "a": 0, "why": "*manger* is not a movement verb → **avoir**." },
+        { "t": "cloze", "q": "Claire est ___ (partir) à huit heures.", "a": ["partie"], "en": "Claire left at eight.", "why": "Feminine subject → +**e**." },
+        { "t": "cloze", "q": "Mes amis sont ___ (venir) dîner.", "a": ["venus"], "en": "My friends came for dinner." },
+        { "t": "cloze", "q": "Elles sont ___ (rentrer) tard.", "a": ["rentrées"], "en": "They (f) got home late." },
+        { "t": "cloze", "q": "Nous ___ restés à la maison.", "a": ["sommes"], "en": "We stayed at home." },
+        { "t": "order", "fr": "Vous êtes sortis samedi soir ?", "en": "Did you go out on Saturday night?" },
+        { "t": "type", "q": "Translate: **She arrived on Friday.**", "a": ["Elle est arrivée vendredi.", "Elle est arrivée le vendredi."] }
+      ]
+    },
+    {
+      "id": "u04l2",
+      "title": "À la gare",
+      "intro": "Trains, tickets and delays — very French topics.",
+      "vocab": ["u04v08", "u04v09", "u04v10", "u04v11", "u04v12", "u04v13", "u04v14"],
+      "steps": [
+        { "t": "dialogue", "title": "Le retour de Paris", "lines": [
+          ["Claire", "Alors, ton voyage ?", "So, how was your trip?"],
+          ["Marco", "Long ! Le train est parti à l’heure, mais il est arrivé avec une heure de retard.", "Long! The train left on time but arrived an hour late."],
+          ["Claire", "Oh non. Pourquoi ?", "Oh no. Why?"],
+          ["Marco", "Un problème technique. On est restés vingt minutes à Poitiers.", "A technical problem. We sat in Poitiers for twenty minutes."],
+          ["Claire", "Tu peux demander un remboursement, tu sais.", "You can ask for a refund, you know."],
+          ["Marco", "Oui, j’ai déjà rempli le formulaire sur l’appli.", "Yes, I’ve already filled in the form on the app."]
+        ]},
+        { "t": "choice", "q": "Why was the train late?", "opts": ["A technical problem", "A strike", "Bad weather", "Too many passengers"], "a": 0 },
+        { "t": "choice", "q": "*Il est arrivé en retard* means:", "opts": ["It arrived late.", "It arrived on time.", "It arrived again."], "a": 0 },
+        { "t": "listen", "fr": "Le train pour Paris part du quai numéro deux.", "opts": ["The Paris train leaves from platform 2.", "The Paris train arrives at platform 2.", "The Paris train leaves at two."], "a": 0 },
+        { "t": "cloze", "q": "Je suis ___ (descendre) du train à Niort.", "a": ["descendu", "descendue"], "en": "I got off the train at Niort." },
+        { "t": "order", "fr": "J’ai oublié ma valise dans le train.", "en": "I left my suitcase on the train." },
+        { "t": "type", "q": "Translate: **We arrived on time.** (*nous*)", "a": ["Nous sommes arrivés à l’heure.", "Nous sommes arrivés à l'heure.", "Nous sommes arrivées à l’heure.", "Nous sommes arrivées à l'heure."] }
+      ]
+    },
+    {
+      "id": "u04l3",
+      "title": "En vacances",
+      "intro": "Beaches, islands and mountains. Spot which verbs take avoir and which take être.",
+      "vocab": ["u04v15", "u04v16", "u04v17", "u04v18", "u04v19", "u04v20", "u04v21"],
+      "steps": [
+        { "t": "choice", "q": "On ___ visité la vieille ville.", "opts": ["a", "est"], "a": 0, "why": "*visiter* takes **avoir**." },
+        { "t": "choice", "q": "On ___ allés à la plage.", "opts": ["est", "a"], "a": 0 },
+        { "t": "cloze", "q": "Il est ___ (tomber) dans l’escalier.", "a": ["tombé"], "en": "He fell on the stairs." },
+        { "t": "cloze", "q": "Nous sommes ___ (monter) à pied.", "a": ["montés", "montées"], "en": "We went up on foot." },
+        { "t": "listen", "fr": "L’été dernier, nous sommes allés à l’île de Ré.", "opts": ["Last summer we went to the Île de Ré.", "Next summer we’re going to the Île de Ré.", "Every summer we go to the Île de Ré."], "a": 0 },
+        { "t": "order", "fr": "On est descendus à la plage à vélo.", "en": "We cycled down to the beach." },
+        { "t": "type", "q": "Translate: **We visited the island.** (use *on*)", "a": ["On a visité l’île.", "On a visité l'île."] }
+      ]
+    },
+    {
+      "id": "u04l4",
+      "title": "Une sortie en ville",
+      "intro": "Reflexive verbs in the past: meeting up, having fun, getting lost.",
+      "vocab": ["u04v22", "u04v23", "u04v24", "u04v25", "u04v26", "u04v27", "u04v28"],
+      "grammar": "u04g2",
+      "steps": [
+        { "t": "cloze", "q": "On ___ est retrouvés devant le théâtre.", "a": ["s’", "s'"], "full": "On s’est retrouvés devant le théâtre.", "en": "We met in front of the theatre." },
+        { "t": "cloze", "q": "Je me ___ perdu dans la vieille ville.", "a": ["suis"], "en": "I got lost in the old town." },
+        { "t": "cloze", "q": "Elle s’est bien ___ (s’amuser).", "a": ["amusée"], "en": "She had great fun." },
+        { "t": "choice", "q": "Which negative is correct?", "opts": ["Je ne me suis pas amusé.", "Je ne suis pas me amusé.", "Je me ne suis pas amusé."], "a": 0 },
+        { "t": "listen", "fr": "C’était génial, on s’est bien amusés !", "opts": ["It was great, we had a lot of fun!", "It’ll be great, we’ll have fun!", "It was cold, but we had fun."], "a": 0 },
+        { "t": "order", "fr": "Le spectacle a commencé à vingt et une heures.", "en": "The show started at 9 pm." },
+        { "t": "type", "q": "Translate: **They (masc.) met up at the station.**", "a": ["Ils se sont retrouvés à la gare."] }
+      ]
+    }
+  ],
+  "drills": [
+    { "id": "u04d01", "l": "u04l1", "t": "cloze", "q": "Tu ___ venu en voiture ?", "a": ["es"], "en": "Did you come by car?" },
+    { "id": "u04d02", "l": "u04l1", "t": "cloze", "q": "Ils ___ partis sans dire au revoir.", "a": ["sont"], "en": "They left without saying goodbye." },
+    { "id": "u04d03", "l": "u04l1", "t": "cloze", "q": "Ma sœur est ___ (naître) en 1990.", "a": ["née"], "en": "My sister was born in 1990." },
+    { "id": "u04d04", "l": "u04l1", "t": "type", "q": "Translate: **I stayed at home.** (masc.)", "a": ["Je suis resté à la maison.", "Je suis resté chez moi."] },
+    { "id": "u04d05", "l": "u04l1", "t": "type", "q": "Translate: **They didn’t come.** (*ils*)", "a": ["Ils ne sont pas venus."] },
+    { "id": "u04d06", "l": "u04l2", "t": "cloze", "q": "Le train est ___ (arriver) avec une heure de retard.", "a": ["arrivé"], "en": "The train arrived an hour late." },
+    { "id": "u04d07", "l": "u04l2", "t": "type", "q": "Translate: **The train left on time.**", "a": ["Le train est parti à l’heure.", "Le train est parti à l'heure."] },
+    { "id": "u04d08", "l": "u04l3", "t": "choice", "q": "Nous ___ visité Bordeaux et nous ___ restés trois jours.", "opts": ["avons / sommes", "sommes / avons", "avons / avons"], "a": 0 },
+    { "id": "u04d09", "l": "u04l3", "t": "cloze", "q": "Elles sont ___ (aller) à la montagne.", "a": ["allées"], "en": "They (f) went to the mountains." },
+    { "id": "u04d10", "l": "u04l3", "t": "cloze", "q": "Il est ___ (tomber) de vélo.", "a": ["tombé"], "en": "He fell off his bike." },
+    { "id": "u04d11", "l": "u04l4", "t": "cloze", "q": "Nous nous ___ (se promener) sur le port.", "a": ["sommes promenés", "sommes promenées"], "en": "We walked around the harbour." },
+    { "id": "u04d12", "l": "u04l4", "t": "cloze", "q": "Tu t’___ bien amusé ?", "a": ["es"], "full": "Tu t’es bien amusé ?", "en": "Did you have fun?" },
+    { "id": "u04d13", "l": "u04l4", "t": "type", "q": "Translate: **I didn’t get lost.** (masc.)", "a": ["Je ne me suis pas perdu."] },
+    { "id": "u04d14", "l": "u04l4", "t": "type", "q": "Translate: **It was great!**", "a": ["C’était génial !", "C'était génial !", "C’était super !", "C'était super !"] },
+    { "id": "u04d15", "l": "u04l4", "t": "order", "fr": "Elle s’est levée tard et elle est partie à midi.", "en": "She got up late and left at noon." }
+  ],
+  "dictation": [
+    { "fr": "Nous sommes allés à Bordeaux en train.", "en": "We went to Bordeaux by train." },
+    { "fr": "Elle est arrivée avec une heure de retard.", "en": "She arrived an hour late." },
+    { "fr": "Je suis resté à la maison tout le week-end.", "en": "I stayed home all weekend." },
+    { "fr": "On s’est retrouvés devant la gare.", "en": "We met up in front of the station." },
+    { "fr": "Ils sont rentrés très tard hier soir.", "en": "They got home very late last night." },
+    { "fr": "Le train part du quai numéro trois.", "en": "The train leaves from platform three." },
+    { "fr": "Je ne me suis pas perdu cette fois.", "en": "I didn’t get lost this time." },
+    { "fr": "C’était une très belle sortie.", "en": "It was a really nice outing." },
+    { "fr": "L’été dernier, on est allés à l’île de Ré.", "en": "Last summer we went to the Île de Ré." }
+  ],
+  "speaking": [
+    { "type": "repeat", "fr": "Je suis allé à Paris la semaine dernière.", "en": "I went to Paris last week." },
+    { "type": "repeat", "fr": "Le train est arrivé en retard.", "en": "The train arrived late." },
+    { "type": "repeat", "fr": "On s’est bien amusés.", "en": "We had a great time." },
+    { "type": "repeat", "fr": "Elle est partie et elle n’est pas revenue.", "en": "She left and didn’t come back." },
+    { "type": "answer", "q": "Où êtes-vous allé pendant vos dernières vacances ?", "qEn": "Where did you go on your last holiday?", "hint": "je suis allé(e)… je suis resté(e)… j’ai visité…", "sample": "Je suis allé en Bretagne avec ma femme. Nous sommes restés une semaine et nous avons visité Saint-Malo.", "sampleEn": "I went to Brittany with my wife. We stayed a week and visited Saint-Malo." },
+    { "type": "answer", "q": "Racontez votre dernier voyage en train.", "qEn": "Describe your last train journey.", "hint": "partir, arriver, à l’heure / en retard", "sample": "Le mois dernier, je suis parti à Paris. Le train est parti à l’heure, mais il est arrivé avec vingt minutes de retard.", "sampleEn": "Last month I went to Paris. The train left on time but arrived twenty minutes late." },
+    { "type": "answer", "q": "Vous êtes sorti récemment ? Qu’est-ce que vous avez fait ?", "qEn": "Have you been out recently? What did you do?", "hint": "se retrouver, s’amuser, rentrer", "sample": "Oui, samedi, on s’est retrouvés avec des amis au restaurant. On s’est bien amusés et on est rentrés à minuit.", "sampleEn": "Yes, on Saturday we met friends at a restaurant. We had a great time and got home at midnight." },
+    { "type": "answer", "q": "Où et quand êtes-vous né ?", "qEn": "Where and when were you born?", "hint": "Je suis né(e) à… en…", "sample": "Je suis né à Manchester, en Angleterre, en 1990.", "sampleEn": "I was born in Manchester, England, in 1990." }
+  ],
+  "reading": {
+    "title": "Un week-end à Bordeaux",
+    "text": "En octobre, Marco et Claire ont fait un week-end prolongé à Bordeaux. Ils sont partis vendredi matin. Le train est parti de La Rochelle à neuf heures et il est arrivé à Bordeaux à onze heures et demie, à l’heure pour une fois.\nIls sont allés directement à leur hôtel, près de la place de la Bourse. L’après-midi, ils se sont promenés sur les quais et ils ont visité la Cité du Vin. Le soir, ils ont dîné dans un petit restaurant et ils sont rentrés à pied.\nSamedi, Claire s’est levée tôt pour courir au bord de la Garonne. Marco, lui, est resté au lit ! Ensuite, ils sont montés en haut de la tour Pey-Berland. La vue était magnifique.\nDimanche, ils se sont un peu perdus dans les petites rues, mais ce n’était pas grave. Ils sont rentrés le soir, fatigués mais contents.",
+    "en": "In October Marco and Claire had a long weekend in Bordeaux. They left on Friday morning. The train left La Rochelle at nine and arrived in Bordeaux at half past eleven — on time for once.\nThey went straight to their hotel near the Place de la Bourse. In the afternoon they walked along the quays and visited the Cité du Vin. In the evening they had dinner in a small restaurant and walked back.\nOn Saturday Claire got up early to go running along the Garonne. Marco, on the other hand, stayed in bed! Then they climbed to the top of the Pey-Berland tower. The view was magnificent.\nOn Sunday they got a bit lost in the little streets, but it didn’t matter. They went home in the evening, tired but happy.",
+    "gloss": { "prolongé": "extended (week-end prolongé = long weekend)", "directement": "directly", "hôtel": "hotel", "près": "near", "quais": "quays, riverside", "dîné": "had dinner", "pied": "foot (à pied = on foot)", "courir": "to run", "bord": "edge, bank", "lit": "bed", "tour": "tower", "vue": "view", "magnifique": "magnificent", "rues": "streets", "grave": "serious (ce n’est pas grave = it doesn’t matter)", "fatigués": "tired", "contents": "happy, pleased", "lui": "him (Marco, lui = as for Marco)" },
+    "questions": [
+      { "q": "Le train est arrivé comment ?", "opts": ["À l’heure", "En retard", "En avance"], "a": 0 },
+      { "q": "Qu’est-ce que Claire a fait samedi matin ?", "opts": ["Elle a couru au bord de la Garonne", "Elle est restée au lit", "Elle a visité la Cité du Vin"], "a": 0 },
+      { "q": "Où sont-ils montés ?", "opts": ["En haut de la tour Pey-Berland", "Sur un bateau", "Dans un bus touristique"], "a": 0 },
+      { "q": "Comment étaient-ils dimanche soir ?", "opts": ["Fatigués mais contents", "Perdus et tristes", "En retard"], "a": 0 }
+    ]
+  },
+  "civicsReading": {
+    "title": "Droits et devoirs",
+    "text": "En France, toutes les personnes sont égales devant la loi, sans distinction d’origine, de religion ou de sexe. Chacun a des droits, mais aussi des devoirs.\nParmi les droits, il y a la liberté d’expression, la liberté de religion, le droit à l’éducation et le droit d’accès aux soins. Les citoyens français ont aussi le droit de vote.\nParmi les devoirs, il faut respecter la loi et les autres. Il faut payer ses impôts. Les parents doivent faire instruire leurs enfants de trois à seize ans. Les jeunes Français participent à la Journée défense et citoyenneté.\nEn cas d’urgence, il faut appeler les secours. Le 15, c’est le SAMU pour les urgences médicales. Le 17, c’est la police. Le 18, ce sont les pompiers. Le 112 est le numéro d’urgence européen : il fonctionne dans tous les pays de l’Union européenne.",
+    "en": "In France everyone is equal before the law, regardless of origin, religion or sex. Everyone has rights, but also duties.\nAmong the rights are freedom of expression, freedom of religion, the right to education and the right to healthcare. French citizens also have the right to vote.\nAmong the duties, you must respect the law and other people. You must pay your taxes. Parents must ensure their children are educated from age three to sixteen. Young French people take part in the Defence and Citizenship Day.\nIn an emergency you must call the emergency services. 15 is the SAMU for medical emergencies. 17 is the police. 18 is the fire brigade. 112 is the European emergency number: it works in every EU country.",
+    "gloss": { "égales": "equal", "devant": "before, in front of", "sans": "without", "droits": "rights", "devoirs": "duties", "parmi": "among", "soins": "care, healthcare", "impôts": "taxes", "instruire": "to educate", "urgence": "emergency", "secours": "emergency services, help", "pompiers": "fire brigade", "fonctionne": "works", "pays": "country, countries", "chacun": "everyone" },
+    "questions": [
+      { "q": "Quel numéro appeler pour une urgence médicale ?", "opts": ["Le 15", "Le 17", "Le 18"], "a": 0 },
+      { "q": "Quel est le numéro des pompiers ?", "opts": ["Le 18", "Le 15", "Le 112 seulement"], "a": 0 },
+      { "q": "L’instruction est obligatoire de quel âge à quel âge ?", "opts": ["De 3 à 16 ans", "De 6 à 18 ans", "De 5 à 14 ans"], "a": 0 },
+      { "q": "Lequel de ces éléments est un devoir ?", "opts": ["Payer ses impôts", "La liberté d’expression", "Le droit aux soins"], "a": 0 }
+    ]
+  },
+  "writing": {
+    "id": "u04w",
+    "title": "Un voyage",
+    "prompt": "Racontez un voyage ou une sortie récente : où êtes-vous allé, avec qui, qu’est-ce que vous avez fait, comment c’était ? (80–100 mots)",
+    "promptEn": "Describe a recent trip or outing: where you went, with whom, what you did, and how it was. (80–100 words)",
+    "minWords": 80,
+    "useful": ["je suis allé(e) / parti(e) / arrivé(e) / resté(e) / rentré(e)", "on s’est retrouvés / amusés / promenés", "j’ai visité / mangé / vu", "c’était + adjectif (génial, beau, long)", "le premier jour… le lendemain… le dernier jour"],
+    "checklist": ["I used at least four verbs with être, with the right agreement", "I used at least one reflexive verb in the past", "I mixed in verbs with avoir (visiter, manger, voir…)", "I wrote one negative in the past", "I said how it was with c’était"],
+    "model": "Le mois dernier, je suis allé à Nantes avec ma femme. Nous sommes partis le vendredi en voiture et nous sommes arrivés vers midi. L’après-midi, nous avons visité le château et nous nous sommes promenés dans le centre. Le samedi, nous avons vu les Machines de l’île : c’était incroyable ! Le soir, on s’est retrouvés avec des amis au restaurant et on s’est bien amusés. Le dimanche, nous ne sommes pas restés longtemps parce qu’il a plu. Nous sommes rentrés fatigués mais très contents.",
+    "modelEn": "Last month I went to Nantes with my wife. We left on Friday by car and arrived around noon. In the afternoon we visited the castle and walked around the centre. On Saturday we saw the Machines de l’île: it was incredible! In the evening we met friends at a restaurant and had a great time. On Sunday we didn’t stay long because it rained. We came home tired but very happy."
+  }
+}

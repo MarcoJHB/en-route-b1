@@ -1,0 +1,212 @@
+{
+  "id": "u02",
+  "week": 2,
+  "level": "A1+",
+  "theme": "Daily life",
+  "title": "Ma journée",
+  "grammarFocus": "Reflexive verbs, telling the time",
+  "intro": "Your daily routine is full of reflexive verbs: *je me lève, je me douche, je me couche*. This week you’ll describe a whole day from alarm clock to bedtime, with times.",
+  "grammar": [
+    {
+      "id": "u02g1",
+      "title": "Reflexive verbs: je me lève",
+      "body": "<p>Reflexive verbs have an extra pronoun that matches the subject: the action is done to yourself. In the dictionary they appear with <strong>se</strong>: <em>se lever</em> (to get up).</p><table><tr><th>se lever</th><th></th></tr><tr><td>je <strong>me</strong> lève</td><td>nous <strong>nous</strong> levons</td></tr><tr><td>tu <strong>te</strong> lèves</td><td>vous <strong>vous</strong> levez</td></tr><tr><td>il / elle / on <strong>se</strong> lève</td><td>ils / elles <strong>se</strong> lèvent</td></tr></table><p>Before a vowel or silent h: <strong>m’, t’, s’</strong> — <em>je m’habille, il s’endort</em>.</p><div class=\"rule\"><strong>Negative:</strong> the <em>ne … pas</em> wraps around the pronoun and the verb: <em>Je <strong>ne</strong> me lève <strong>pas</strong> tôt.</em></div><div class=\"tip\">With body parts, French uses <strong>le / la / les</strong>, not “my”: <em>Je me brosse <strong>les</strong> dents.</em></div>",
+      "examples": [
+        ["Je me réveille à sept heures.", "I wake up at seven."],
+        ["Tu te douches le matin ou le soir ?", "Do you shower in the morning or evening?"],
+        ["On se couche tard le samedi.", "We go to bed late on Saturdays."],
+        ["Je ne me lève pas tôt le dimanche.", "I don’t get up early on Sundays."]
+      ]
+    },
+    {
+      "id": "u02g2",
+      "title": "Telling the time",
+      "body": "<p>Always <strong>Il est … heure(s)</strong>. Use <strong>à</strong> for “at”: <em>à huit heures</em>.</p><table><tr><th>Time</th><th>Everyday</th><th>Official (24h)</th></tr><tr><td>8:00</td><td>huit heures</td><td>huit heures</td></tr><tr><td>8:15</td><td>huit heures <strong>et quart</strong></td><td>huit heures quinze</td></tr><tr><td>8:30</td><td>huit heures <strong>et demie</strong></td><td>huit heures trente</td></tr><tr><td>8:45</td><td>neuf heures <strong>moins le quart</strong></td><td>huit heures quarante-cinq</td></tr><tr><td>12:00</td><td><strong>midi</strong></td><td>douze heures</td></tr><tr><td>20:10</td><td>huit heures dix (du soir)</td><td>vingt heures dix</td></tr></table><div class=\"tip\">Shops, trains and appointments use the 24-hour clock: <em>Votre rendez-vous est à quatorze heures.</em></div>",
+      "examples": [
+        ["Quelle heure est-il ?", "What time is it?"],
+        ["Il est midi et demi.", "It’s half past twelve."],
+        ["Le train part à dix-huit heures quinze.", "The train leaves at 18:15."],
+        ["J’ai rendez-vous à neuf heures moins le quart.", "I have an appointment at quarter to nine."]
+      ]
+    }
+  ],
+  "vocab": [
+    { "id": "u02v01", "fr": "se réveiller", "en": "to wake up", "ex": "Je me réveille sans réveil.", "exEn": "I wake up without an alarm clock." },
+    { "id": "u02v02", "fr": "se lever", "en": "to get up", "ex": "Elle se lève à six heures et demie.", "exEn": "She gets up at half past six." },
+    { "id": "u02v03", "fr": "se doucher", "en": "to have a shower", "ex": "Je me douche après le sport.", "exEn": "I shower after sport." },
+    { "id": "u02v04", "fr": "s’habiller", "en": "to get dressed", "alt": ["s'habiller"], "ex": "Les enfants s’habillent vite.", "exEn": "The children get dressed quickly." },
+    { "id": "u02v05", "fr": "se brosser les dents", "en": "to brush your teeth", "ex": "Tu te brosses les dents ?", "exEn": "Are you brushing your teeth?" },
+    { "id": "u02v06", "fr": "le petit-déjeuner", "en": "breakfast", "g": "m", "alt": ["le petit déjeuner"], "ex": "Le petit-déjeuner est prêt !", "exEn": "Breakfast is ready!" },
+    { "id": "u02v07", "fr": "le réveil", "en": "alarm clock", "g": "m", "ex": "Mon réveil sonne à sept heures.", "exEn": "My alarm goes off at seven." },
+
+    { "id": "u02v08", "fr": "l’heure", "en": "the time, hour", "g": "f", "alt": ["l'heure"], "ex": "Tu as l’heure ?", "exEn": "Do you have the time?" },
+    { "id": "u02v09", "fr": "à quelle heure ?", "en": "at what time?", "ex": "À quelle heure tu commences ?", "exEn": "What time do you start?" },
+    { "id": "u02v10", "fr": "et quart", "en": "quarter past", "ex": "Il est dix heures et quart.", "exEn": "It’s quarter past ten." },
+    { "id": "u02v11", "fr": "et demie", "en": "half past", "ex": "On mange à sept heures et demie.", "exEn": "We eat at half past seven." },
+    { "id": "u02v12", "fr": "moins le quart", "en": "quarter to", "ex": "Il est midi moins le quart.", "exEn": "It’s quarter to twelve." },
+    { "id": "u02v13", "fr": "midi", "en": "midday, noon", "ex": "On déjeune à midi.", "exEn": "We have lunch at noon." },
+    { "id": "u02v14", "fr": "minuit", "en": "midnight", "ex": "Il est déjà minuit !", "exEn": "It’s already midnight!" },
+
+    { "id": "u02v15", "fr": "travailler à la maison", "en": "to work from home", "ex": "Je travaille à la maison, dans mon bureau.", "exEn": "I work from home, in my office." },
+    { "id": "u02v16", "fr": "le bureau", "en": "office; desk", "g": "m", "ex": "Mon bureau est à l’étage.", "exEn": "My office is upstairs." },
+    { "id": "u02v17", "fr": "faire une pause", "en": "to take a break", "ex": "Je fais une pause à onze heures.", "exEn": "I take a break at eleven." },
+    { "id": "u02v18", "fr": "déjeuner", "en": "to have lunch", "ex": "On déjeune ensemble ?", "exEn": "Shall we have lunch together?", "note": "Also a noun: *le déjeuner* (lunch)." },
+    { "id": "u02v19", "fr": "commencer", "en": "to start", "ex": "Je commence à neuf heures.", "exEn": "I start at nine." },
+    { "id": "u02v20", "fr": "finir", "en": "to finish", "ex": "Tu finis à quelle heure ?", "exEn": "What time do you finish?" },
+    { "id": "u02v21", "fr": "d’habitude", "en": "usually", "alt": ["d'habitude"], "ex": "D’habitude, je prends un café.", "exEn": "Usually I have a coffee." },
+
+    { "id": "u02v22", "fr": "se reposer", "en": "to rest", "ex": "Le dimanche, on se repose.", "exEn": "On Sundays we rest." },
+    { "id": "u02v23", "fr": "se promener", "en": "to go for a walk", "ex": "On se promène sur la plage.", "exEn": "We go for a walk on the beach." },
+    { "id": "u02v24", "fr": "se coucher", "en": "to go to bed", "ex": "Je me couche vers onze heures.", "exEn": "I go to bed around eleven." },
+    { "id": "u02v25", "fr": "s’endormir", "en": "to fall asleep", "alt": ["s'endormir"], "ex": "Il s’endort devant la télé.", "exEn": "He falls asleep in front of the TV." },
+    { "id": "u02v26", "fr": "le soir", "en": "the evening; in the evening", "g": "m", "ex": "Le soir, je lis un peu.", "exEn": "In the evening I read a bit." },
+    { "id": "u02v27", "fr": "tôt", "en": "early", "ex": "Je me lève tôt.", "exEn": "I get up early." },
+    { "id": "u02v28", "fr": "tard", "en": "late", "ex": "Il est tard, je vais me coucher.", "exEn": "It’s late, I’m going to bed." }
+  ],
+  "lessons": [
+    {
+      "id": "u02l1",
+      "title": "Le matin",
+      "intro": "The morning routine and your first reflexive verbs.",
+      "vocab": ["u02v01", "u02v02", "u02v03", "u02v04", "u02v05", "u02v06", "u02v07"],
+      "grammar": "u02g1",
+      "steps": [
+        { "t": "cloze", "q": "Je ___ lève à sept heures.", "a": ["me"], "en": "I get up at seven." },
+        { "t": "cloze", "q": "Tu ___ douches le matin ?", "a": ["te"], "en": "Do you shower in the morning?" },
+        { "t": "cloze", "q": "Elle ___ habille dans sa chambre.", "a": ["s’", "s'"], "full": "Elle s’habille dans sa chambre.", "en": "She gets dressed in her room.", "why": "*se* + vowel → **s’**." },
+        { "t": "cloze", "q": "Nous ___ réveillons tôt.", "a": ["nous"], "en": "We wake up early." },
+        { "t": "choice", "q": "Je me brosse ___ dents.", "opts": ["les", "mes", "des"], "a": 0, "why": "Body parts with reflexive verbs → **les**." },
+        { "t": "choice", "q": "Which is the correct negative?", "opts": ["Je ne me lève pas tôt.", "Je me ne lève pas tôt.", "Je ne lève me pas tôt."], "a": 0 },
+        { "t": "order", "fr": "Mon réveil sonne à sept heures.", "en": "My alarm goes off at seven." },
+        { "t": "type", "q": "Translate: **They (masc.) get up and get dressed.**", "a": ["Ils se lèvent et s’habillent.", "Ils se lèvent et ils s’habillent.", "Ils se lèvent et s'habillent.", "Ils se lèvent et ils s'habillent."] }
+      ]
+    },
+    {
+      "id": "u02l2",
+      "title": "Quelle heure est-il ?",
+      "intro": "Everyday and 24-hour time.",
+      "vocab": ["u02v08", "u02v09", "u02v10", "u02v11", "u02v12", "u02v13", "u02v14"],
+      "grammar": "u02g2",
+      "steps": [
+        { "t": "choice", "q": "8:30 =", "opts": ["huit heures et demie", "huit heures et quart", "huit heures moins le quart"], "a": 0 },
+        { "t": "choice", "q": "9:45 =", "opts": ["dix heures moins le quart", "neuf heures moins le quart", "neuf heures et quart"], "a": 0, "why": "Count down from the **next** hour: 10 minus a quarter." },
+        { "t": "listen", "fr": "Il est midi et demi.", "opts": ["12:30", "12:15", "11:30", "00:30"], "a": 0 },
+        { "t": "listen", "fr": "Le train part à dix-sept heures quarante.", "opts": ["17:40", "7:40", "17:14", "16:40"], "a": 0 },
+        { "t": "listen", "fr": "J’ai rendez-vous à quatorze heures quinze.", "opts": ["14:15", "4:15", "14:50", "13:45"], "a": 0 },
+        { "t": "cloze", "q": "On mange ___ huit heures.", "a": ["à"], "en": "We eat at eight." },
+        { "t": "type", "q": "Write it out: **It’s quarter past ten.**", "a": ["Il est dix heures et quart."] },
+        { "t": "type", "q": "Translate: **What time do you get up?** (*tu*)", "a": ["À quelle heure tu te lèves ?", "Tu te lèves à quelle heure ?", "À quelle heure est-ce que tu te lèves ?", "A quelle heure tu te lèves ?"] }
+      ]
+    },
+    {
+      "id": "u02l3",
+      "title": "La journée de travail",
+      "intro": "Working from home: start, break, lunch, finish.",
+      "vocab": ["u02v15", "u02v16", "u02v17", "u02v18", "u02v19", "u02v20", "u02v21"],
+      "steps": [
+        { "t": "dialogue", "title": "Au téléphone avec un ami", "lines": [
+          ["Thomas", "Alors, tu travailles toujours à la maison ?", "So, are you still working from home?"],
+          ["Marco", "Oui. Je commence vers neuf heures, après le petit-déjeuner.", "Yes. I start around nine, after breakfast."],
+          ["Thomas", "Et tu fais des pauses ?", "And do you take breaks?"],
+          ["Marco", "D’habitude, je fais une pause à onze heures et je déjeune avec Claire à midi et demi.", "Usually I take a break at eleven and I have lunch with Claire at half past twelve."],
+          ["Thomas", "Tu finis à quelle heure ?", "What time do you finish?"],
+          ["Marco", "Ça dépend ! Quand je monte une vidéo, je finis tard.", "It depends! When I’m editing a video, I finish late."]
+        ]},
+        { "t": "choice", "q": "When does Marco finish late?", "opts": ["When he edits a video", "On Fridays", "When Claire works", "Never"], "a": 0 },
+        { "t": "choice", "q": "*Je finis* — what is the *nous* form?", "opts": ["nous finissons", "nous finons", "nous finisons"], "a": 0, "why": "-ir verbs like *finir*: nous fin**issons**, vous fin**issez**, ils fin**issent**." },
+        { "t": "cloze", "q": "Nous ___ (commencer) à neuf heures.", "a": ["commençons"], "en": "We start at nine.", "why": "Keep the soft c sound before o: **ç**." },
+        { "t": "cloze", "q": "Ils ___ (finir) à dix-huit heures.", "a": ["finissent"], "en": "They finish at six pm." },
+        { "t": "order", "fr": "D’habitude, je fais une pause à onze heures.", "en": "Usually I take a break at eleven." },
+        { "t": "type", "q": "Translate: **I work from home.**", "a": ["Je travaille à la maison.", "Je travaille de la maison.", "Je travaille chez moi."] }
+      ]
+    },
+    {
+      "id": "u02l4",
+      "title": "Le soir",
+      "intro": "Winding down — and the whole day in order.",
+      "vocab": ["u02v22", "u02v23", "u02v24", "u02v25", "u02v26", "u02v27", "u02v28"],
+      "steps": [
+        { "t": "cloze", "q": "Le dimanche, on ___ promène sur la plage.", "a": ["se"], "en": "On Sundays we walk on the beach." },
+        { "t": "cloze", "q": "Vous ___ couchez à quelle heure ?", "a": ["vous"], "en": "What time do you go to bed?" },
+        { "t": "cloze", "q": "Je ___ endors devant la télé.", "a": ["m’", "m'"], "full": "Je m’endors devant la télé.", "en": "I fall asleep in front of the TV." },
+        { "t": "choice", "q": "The opposite of *tôt* is:", "opts": ["tard", "midi", "le soir"], "a": 0 },
+        { "t": "choice", "q": "Put the day in order — which comes LAST?", "opts": ["je m’endors", "je me lève", "je déjeune", "je me douche"], "a": 0 },
+        { "t": "order", "fr": "Il est tard, je vais me coucher.", "en": "It’s late, I’m going to bed." },
+        { "t": "type", "q": "Translate: **We don’t go to bed early.** (use *on*)", "a": ["On ne se couche pas tôt.", "On se couche pas tôt."] }
+      ]
+    }
+  ],
+  "drills": [
+    { "id": "u02d01", "l": "u02l1", "t": "cloze", "q": "Ils ___ lèvent à six heures.", "a": ["se"], "en": "They get up at six." },
+    { "id": "u02d02", "l": "u02l1", "t": "cloze", "q": "Vous ___ habillez comment pour le mariage ?", "a": ["vous"], "en": "How are you dressing for the wedding?" },
+    { "id": "u02d03", "l": "u02l1", "t": "cloze", "q": "Je ___ (se lever) à sept heures.", "a": ["me lève"], "en": "I get up at seven." },
+    { "id": "u02d04", "l": "u02l1", "t": "cloze", "q": "Nous ___ (se lever) tôt.", "a": ["nous levons"], "en": "We get up early.", "why": "No accent in the nous / vous forms: nous **levons**." },
+    { "id": "u02d05", "l": "u02l1", "t": "type", "q": "Translate: **I don’t shower in the morning.**", "a": ["Je ne me douche pas le matin."] },
+    { "id": "u02d06", "l": "u02l2", "t": "type", "q": "Write it out: **It’s quarter to eight.**", "a": ["Il est huit heures moins le quart."] },
+    { "id": "u02d07", "l": "u02l2", "t": "type", "q": "Write it out: **It’s half past twelve (midday).**", "a": ["Il est midi et demi.", "Il est midi et demie."] },
+    { "id": "u02d08", "l": "u02l2", "t": "choice", "q": "Your appointment is at 15:30. The receptionist says:", "opts": ["quinze heures trente", "cinq heures et demie", "trois heures moins trente"], "a": 0 },
+    { "id": "u02d09", "l": "u02l3", "t": "cloze", "q": "Tu ___ (finir) à quelle heure ?", "a": ["finis"], "en": "What time do you finish?" },
+    { "id": "u02d10", "l": "u02l3", "t": "cloze", "q": "Nous ___ (commencer) le travail.", "a": ["commençons"], "en": "We’re starting work." },
+    { "id": "u02d11", "l": "u02l3", "t": "type", "q": "Translate: **Usually we have lunch at noon.**", "a": ["D’habitude, on déjeune à midi.", "D’habitude, nous déjeunons à midi.", "D'habitude, on déjeune à midi.", "D'habitude, nous déjeunons à midi.", "D’habitude on déjeune à midi."] },
+    { "id": "u02d12", "l": "u02l4", "t": "cloze", "q": "Elles ___ reposent le dimanche.", "a": ["se"], "en": "They rest on Sundays." },
+    { "id": "u02d13", "l": "u02l4", "t": "cloze", "q": "Tu ne ___ couches pas ?", "a": ["te"], "en": "Aren’t you going to bed?" },
+    { "id": "u02d14", "l": "u02l4", "t": "type", "q": "Translate: **He falls asleep at eleven.**", "a": ["Il s’endort à onze heures.", "Il s'endort à onze heures."] },
+    { "id": "u02d15", "l": "u02l4", "t": "order", "fr": "Le soir, nous nous promenons sur la plage.", "en": "In the evening we walk on the beach." }
+  ],
+  "dictation": [
+    { "fr": "Je me lève à sept heures et quart.", "en": "I get up at quarter past seven." },
+    { "fr": "Les enfants s’habillent très vite.", "en": "The children get dressed very quickly." },
+    { "fr": "D’habitude, je commence à neuf heures.", "en": "Usually I start at nine." },
+    { "fr": "On déjeune à midi et demi.", "en": "We have lunch at half past twelve." },
+    { "fr": "Tu te couches à quelle heure ?", "en": "What time do you go to bed?" },
+    { "fr": "Il est tard, je vais me reposer.", "en": "It’s late, I’m going to rest." },
+    { "fr": "Le dimanche, nous nous promenons.", "en": "On Sundays we go for a walk." },
+    { "fr": "Mon rendez-vous est à quatorze heures trente.", "en": "My appointment is at 14:30." },
+    { "fr": "Je ne me réveille pas sans mon réveil.", "en": "I don’t wake up without my alarm." }
+  ],
+  "speaking": [
+    { "type": "repeat", "fr": "Je me réveille à sept heures.", "en": "I wake up at seven." },
+    { "type": "repeat", "fr": "Il est neuf heures moins le quart.", "en": "It’s quarter to nine." },
+    { "type": "repeat", "fr": "Nous nous promenons sur la plage.", "en": "We walk on the beach." },
+    { "type": "repeat", "fr": "D’habitude, je me couche vers minuit.", "en": "Usually I go to bed around midnight." },
+    { "type": "answer", "q": "À quelle heure vous levez-vous ?", "qEn": "What time do you get up?", "hint": "Je me lève à…", "sample": "Je me lève à sept heures et demie, sauf le dimanche.", "sampleEn": "I get up at half past seven, except on Sundays." },
+    { "type": "answer", "q": "Décrivez votre matinée.", "qEn": "Describe your morning.", "hint": "d’abord, ensuite, puis", "sample": "D’abord, je me lève et je prends le petit-déjeuner. Ensuite, je me douche et je m’habille. Puis je commence à travailler.", "sampleEn": "First I get up and have breakfast. Then I shower and get dressed. Then I start work." },
+    { "type": "answer", "q": "Qu’est-ce que vous faites le soir ?", "qEn": "What do you do in the evening?", "hint": "se reposer, se promener, se coucher", "sample": "Le soir, je me repose. Je regarde un film avec ma femme et je me couche vers onze heures.", "sampleEn": "In the evening I rest. I watch a film with my wife and go to bed around eleven." },
+    { "type": "answer", "q": "Vous travaillez à quelle heure ?", "qEn": "What hours do you work?", "hint": "Je commence à… je finis à…", "sample": "Je commence vers neuf heures et je finis vers dix-huit heures, mais ça dépend des jours.", "sampleEn": "I start around nine and finish around six pm, but it depends on the day." }
+  ],
+  "reading": {
+    "title": "La journée d’un youtubeur",
+    "text": "Marco est youtubeur. Il travaille à la maison, dans un petit bureau à l’étage. Son réveil sonne à sept heures, mais il ne se lève pas tout de suite : il regarde d’abord ses messages.\nÀ sept heures et demie, il se douche, il s’habille et il prend le petit-déjeuner avec Claire. Ensuite, il monte dans son bureau. D’habitude, le matin, il écrit ses textes et il joue aux jeux qu’il présente dans ses vidéos.\nÀ midi et demi, ils déjeunent ensemble. L’après-midi, Marco enregistre sa voix et il monte les vidéos. C’est long ! Parfois, il finit à vingt heures.\nLe soir, quand il fait beau, ils se promènent au bord de la mer. Ils se couchent vers onze heures. Mais quand une vidéo doit sortir le lendemain, Marco se couche après minuit.",
+    "en": "Marco is a YouTuber. He works from home, in a small office upstairs. His alarm goes off at seven, but he doesn’t get up straight away: first he checks his messages.\nAt half past seven he showers, gets dressed and has breakfast with Claire. Then he goes up to his office. Usually in the morning he writes his scripts and plays the games he presents in his videos.\nAt half past twelve they have lunch together. In the afternoon Marco records his voice and edits the videos. It takes ages! Sometimes he finishes at 8 pm.\nIn the evening, when the weather’s nice, they walk by the sea. They go to bed around eleven. But when a video has to come out the next day, Marco goes to bed after midnight.",
+    "gloss": { "étage": "upstairs, floor", "tout de suite": "straight away", "sonne": "rings", "monte": "goes up / edits (a video)", "écrit": "writes", "textes": "scripts, texts", "enregistre": "records", "voix": "voice", "parfois": "sometimes", "bord": "edge (au bord de la mer = by the sea)", "mer": "sea", "lendemain": "the next day", "sortir": "to come out", "doit": "must, has to", "fait": "(il fait beau = the weather is nice)", "ensemble": "together", "long": "long" },
+    "questions": [
+      { "q": "Que fait Marco quand son réveil sonne ?", "opts": ["Il regarde ses messages", "Il se douche", "Il se lève tout de suite"], "a": 0 },
+      { "q": "Qu’est-ce qu’il fait le matin, d’habitude ?", "opts": ["Il écrit ses textes et joue aux jeux", "Il monte les vidéos", "Il se promène"], "a": 0 },
+      { "q": "Où se promènent-ils le soir ?", "opts": ["Au bord de la mer", "En ville", "Dans la forêt"], "a": 0 },
+      { "q": "Quand est-ce que Marco se couche après minuit ?", "opts": ["Quand une vidéo sort le lendemain", "Le samedi", "Quand il fait beau"], "a": 0 }
+    ]
+  },
+  "civicsReading": {
+    "title": "La laïcité",
+    "text": "La France est une République laïque. La laïcité est un principe important : l’État est séparé des religions. Cette séparation date d’une loi de 1905.\nL’État ne finance pas les religions et il n’a pas de religion officielle. Il est neutre. En même temps, il protège la liberté de conscience : chaque personne est libre de croire ou de ne pas croire, et de changer de religion.\nLes agents publics, par exemple les professeurs ou les employés de mairie, doivent être neutres pendant leur travail. Ils ne montrent pas leur religion.\nDans les écoles publiques, depuis 2004, les élèves ne peuvent pas porter de signes religieux visibles.\nDans la rue, chacun peut pratiquer sa religion, dans le respect de la loi et de l’ordre public.",
+    "en": "France is a secular Republic. Secularism (laïcité) is an important principle: the State is separate from religions. This separation dates from a law of 1905.\nThe State does not fund religions and has no official religion. It is neutral. At the same time, it protects freedom of conscience: everyone is free to believe or not to believe, and to change religion.\nPublic servants, for example teachers or town-hall staff, must be neutral while working. They do not display their religion.\nIn state schools, since 2004, pupils may not wear conspicuous religious symbols.\nIn public, everyone may practise their religion, while respecting the law and public order.",
+    "gloss": { "laïque": "secular", "laïcité": "secularism", "état": "the State", "séparé": "separated", "loi": "law", "finance": "funds", "neutre": "neutral", "protège": "protects", "conscience": "conscience", "croire": "to believe", "agents": "agents (agents publics = public servants)", "doivent": "must", "montrent": "show", "élèves": "pupils", "porter": "to wear", "signes": "signs, symbols", "chacun": "everyone", "pratiquer": "to practise", "ordre": "order" },
+    "questions": [
+      { "q": "De quand date la loi de séparation des Églises et de l’État ?", "opts": ["1905", "1789", "1958"], "a": 0 },
+      { "q": "L’État a-t-il une religion officielle ?", "opts": ["Non, il est neutre", "Oui, le catholicisme", "Oui, plusieurs"], "a": 0 },
+      { "q": "Que garantit la liberté de conscience ?", "opts": ["Chacun peut croire ou ne pas croire", "Tout le monde doit avoir une religion", "On ne peut pas changer de religion"], "a": 0 },
+      { "q": "Qui doit être neutre pendant son travail ?", "opts": ["Les agents publics", "Tous les salariés", "Les commerçants"], "a": 0 }
+    ]
+  },
+  "writing": {
+    "id": "u02w",
+    "title": "Une journée typique",
+    "prompt": "Décrivez une journée typique de la semaine, du matin au soir, avec les heures. (70–90 mots)",
+    "promptEn": "Describe a typical weekday from morning to evening, with times. (70–90 words)",
+    "minWords": 70,
+    "useful": ["je me réveille / je me lève / je me couche", "à … heures et quart / et demie / moins le quart", "d’abord, ensuite, puis, enfin", "d’habitude, parfois, toujours", "je commence / je finis"],
+    "checklist": ["I used at least four reflexive verbs with the right pronoun", "I gave at least three times with à", "I used a negative with a reflexive verb (je ne me … pas)", "I used d’abord / ensuite / enfin", "I used d’habitude or parfois"],
+    "model": "D’habitude, je me réveille à sept heures, mais je ne me lève pas tout de suite. À sept heures et quart, je me douche et je m’habille. Ensuite, je prends le petit-déjeuner avec ma femme. Je commence à travailler à neuf heures. Je fais une pause à onze heures et nous déjeunons à midi et demi. L’après-midi, je travaille jusqu’à dix-huit heures. Le soir, nous nous promenons, puis je me couche vers onze heures.",
+    "modelEn": "Usually I wake up at seven, but I don’t get up straight away. At quarter past seven I shower and get dressed. Then I have breakfast with my wife. I start work at nine. I take a break at eleven and we have lunch at half past twelve. In the afternoon I work until 6 pm. In the evening we go for a walk, then I go to bed around eleven."
+  }
+}

@@ -1,0 +1,902 @@
+{
+ "intro": "Since 1 January 2026, a first multi-year residence card, a first 10-year carte de résident and naturalisation all require passing a civic exam: 40 multiple-choice questions in 45 minutes, with a pass mark of 80% (32/40). Practise a few questions every day; mock exams become a weekly habit from month 9.",
+ "passMark": 32,
+ "disclaimer": "This is a practice bank written for this app, not the official question list. Check the official preparation site (formation-civique.interieur.gouv.fr) and your préfecture for current rules before booking the exam.",
+ "themes": [
+  {
+   "id": "valeurs",
+   "title": "Principes et valeurs",
+   "en": "Principles and values of the Republic",
+   "icon": "🗽",
+   "mockCount": 11
+  },
+  {
+   "id": "institutions",
+   "title": "Institutions et politique",
+   "en": "Institutions and the political system",
+   "icon": "🏛",
+   "mockCount": 8
+  },
+  {
+   "id": "droits",
+   "title": "Droits et devoirs",
+   "en": "Rights and duties",
+   "icon": "⚖",
+   "mockCount": 9
+  },
+  {
+   "id": "histoire",
+   "title": "Histoire, géographie et culture",
+   "en": "History, geography and culture",
+   "icon": "🗺",
+   "mockCount": 7
+  },
+  {
+   "id": "societe",
+   "title": "Vivre en France",
+   "en": "Living in French society",
+   "icon": "🏠",
+   "mockCount": 5
+  }
+ ],
+ "questions": [
+  {
+   "id": "c001",
+   "theme": "valeurs",
+   "q": "Quelle est la devise de la République française ?",
+   "opts": [
+    "Liberté, Égalité, Fraternité",
+    "Travail, Famille, Patrie",
+    "Paix, Unité, Justice",
+    "Liberté, Sécurité, Solidarité"
+   ],
+   "a": 0,
+   "en": "What is the motto of the French Republic?"
+  },
+  {
+   "id": "c002",
+   "theme": "valeurs",
+   "q": "Quelles sont les couleurs du drapeau français ?",
+   "opts": [
+    "Bleu, blanc, rouge",
+    "Bleu, blanc, vert",
+    "Rouge, blanc, noir",
+    "Bleu, jaune, rouge"
+   ],
+   "a": 0,
+   "en": "What colours is the French flag?"
+  },
+  {
+   "id": "c003",
+   "theme": "valeurs",
+   "q": "Comment s’appelle l’hymne national ?",
+   "opts": [
+    "La Marseillaise",
+    "L’Internationale",
+    "Le Chant du départ",
+    "La Parisienne"
+   ],
+   "a": 0,
+   "en": "What is the national anthem called?"
+  },
+  {
+   "id": "c004",
+   "theme": "valeurs",
+   "q": "Qui est Marianne ?",
+   "opts": [
+    "Une figure qui symbolise la République",
+    "La première femme présidente",
+    "Une reine de France",
+    "Une héroïne de la Résistance"
+   ],
+   "a": 0,
+   "en": "Who is Marianne?",
+   "why": "Her bust is in town halls and she appears on stamps."
+  },
+  {
+   "id": "c005",
+   "theme": "valeurs",
+   "q": "Quelle est la date de la fête nationale ?",
+   "opts": [
+    "Le 14 juillet",
+    "Le 1er mai",
+    "Le 8 mai",
+    "Le 11 novembre"
+   ],
+   "a": 0,
+   "en": "When is the national holiday?"
+  },
+  {
+   "id": "c006",
+   "theme": "valeurs",
+   "q": "Que signifie la laïcité ?",
+   "opts": [
+    "L’État est neutre et séparé des religions",
+    "Il est interdit de croire en Dieu",
+    "L’État choisit une religion officielle",
+    "Les religions financent l’État"
+   ],
+   "a": 0,
+   "en": "What does laïcité (secularism) mean?"
+  },
+  {
+   "id": "c007",
+   "theme": "valeurs",
+   "q": "Quelle loi sépare les Églises et l’État ?",
+   "opts": [
+    "La loi de 1905",
+    "La loi de 1789",
+    "La loi de 1958",
+    "La loi de 2004"
+   ],
+   "a": 0,
+   "en": "Which law separates the Churches and the State?"
+  },
+  {
+   "id": "c008",
+   "theme": "valeurs",
+   "q": "Selon la Constitution, la France est une République…",
+   "opts": [
+    "indivisible, laïque, démocratique et sociale",
+    "fédérale, religieuse et libérale",
+    "monarchique et laïque",
+    "unie, chrétienne et sociale"
+   ],
+   "a": 0,
+   "en": "According to the Constitution, France is a Republic that is…",
+   "why": "Article 1 of the 1958 Constitution."
+  },
+  {
+   "id": "c009",
+   "theme": "valeurs",
+   "q": "Quel texte de 1789 proclame les droits fondamentaux ?",
+   "opts": [
+    "La Déclaration des droits de l’homme et du citoyen",
+    "Le Code civil",
+    "La Charte de l’environnement",
+    "Le traité de Rome"
+   ],
+   "a": 0,
+   "en": "Which 1789 text proclaims fundamental rights?"
+  },
+  {
+   "id": "c010",
+   "theme": "valeurs",
+   "q": "En France, les femmes et les hommes…",
+   "opts": [
+    "ont les mêmes droits",
+    "n’ont pas les mêmes droits au travail",
+    "ont des droits différents dans le mariage",
+    "votent à des élections différentes"
+   ],
+   "a": 0,
+   "en": "In France, women and men…"
+  },
+  {
+   "id": "c011",
+   "theme": "valeurs",
+   "q": "Pendant son travail, un agent public (professeur, employé de mairie) doit…",
+   "opts": [
+    "rester neutre en matière de religion",
+    "montrer sa religion",
+    "prier avec le public",
+    "choisir ses usagers selon leur religion"
+   ],
+   "a": 0,
+   "en": "While working, a public servant must…"
+  },
+  {
+   "id": "c012",
+   "theme": "valeurs",
+   "q": "La peine de mort en France…",
+   "opts": [
+    "a été abolie en 1981",
+    "existe encore pour les crimes graves",
+    "a été abolie en 1789",
+    "dépend des régions"
+   ],
+   "a": 0,
+   "en": "The death penalty in France…"
+  },
+  {
+   "id": "c013",
+   "theme": "valeurs",
+   "q": "Dans une école publique, un élève peut-il porter un signe religieux ostensible ?",
+   "opts": [
+    "Non, c’est interdit depuis 2004",
+    "Oui, toujours",
+    "Oui, seulement le vendredi",
+    "Seulement au lycée"
+   ],
+   "a": 0,
+   "en": "In a state school, may a pupil wear a conspicuous religious symbol?"
+  },
+  {
+   "id": "c014",
+   "theme": "valeurs",
+   "q": "La fraternité, c’est…",
+   "opts": [
+    "la solidarité et l’entraide entre les personnes",
+    "l’obligation d’avoir des frères et sœurs",
+    "l’égalité devant l’impôt",
+    "la liberté de circuler"
+   ],
+   "a": 0,
+   "en": "Fraternity means…"
+  },
+  {
+   "id": "c015",
+   "theme": "institutions",
+   "q": "Pour combien de temps le président de la République est-il élu ?",
+   "opts": [
+    "5 ans",
+    "7 ans",
+    "4 ans",
+    "6 ans"
+   ],
+   "a": 0,
+   "en": "For how long is the President elected?",
+   "why": "Called the quinquennat; at most two consecutive terms."
+  },
+  {
+   "id": "c016",
+   "theme": "institutions",
+   "q": "Comment le président de la République est-il élu ?",
+   "opts": [
+    "Au suffrage universel direct",
+    "Par les députés",
+    "Par les maires",
+    "Par le Premier ministre"
+   ],
+   "a": 0,
+   "en": "How is the President elected?"
+  },
+  {
+   "id": "c017",
+   "theme": "institutions",
+   "q": "Où travaille le président de la République ?",
+   "opts": [
+    "Au palais de l’Élysée",
+    "À l’hôtel Matignon",
+    "Au palais Bourbon",
+    "Au château de Versailles"
+   ],
+   "a": 0,
+   "en": "Where does the President work?",
+   "why": "Matignon is the Prime Minister’s residence."
+  },
+  {
+   "id": "c018",
+   "theme": "institutions",
+   "q": "Qui nomme le Premier ministre ?",
+   "opts": [
+    "Le président de la République",
+    "L’Assemblée nationale",
+    "Le Sénat",
+    "Les citoyens"
+   ],
+   "a": 0,
+   "en": "Who appoints the Prime Minister?"
+  },
+  {
+   "id": "c019",
+   "theme": "institutions",
+   "q": "Le Parlement français est composé…",
+   "opts": [
+    "de l’Assemblée nationale et du Sénat",
+    "du gouvernement et des maires",
+    "du président et des ministres",
+    "des régions et des départements"
+   ],
+   "a": 0,
+   "en": "The French Parliament is made up of…"
+  },
+  {
+   "id": "c020",
+   "theme": "institutions",
+   "q": "Combien y a-t-il de députés à l’Assemblée nationale ?",
+   "opts": [
+    "577",
+    "348",
+    "100",
+    "1 000"
+   ],
+   "a": 0,
+   "en": "How many deputies sit in the National Assembly?",
+   "why": "There are 348 senators."
+  },
+  {
+   "id": "c021",
+   "theme": "institutions",
+   "q": "Qui vote les lois ?",
+   "opts": [
+    "Le Parlement",
+    "Le président seul",
+    "Les préfets",
+    "Les maires"
+   ],
+   "a": 0,
+   "en": "Who passes laws?"
+  },
+  {
+   "id": "c022",
+   "theme": "institutions",
+   "q": "De quelle année date la Constitution actuelle ?",
+   "opts": [
+    "1958",
+    "1789",
+    "1946",
+    "1981"
+   ],
+   "a": 0,
+   "en": "What year is the current Constitution from?",
+   "why": "It founded the Fifth Republic."
+  },
+  {
+   "id": "c023",
+   "theme": "institutions",
+   "q": "Qui dirige la commune ?",
+   "opts": [
+    "Le maire",
+    "Le préfet",
+    "Le député",
+    "Le président de région"
+   ],
+   "a": 0,
+   "en": "Who runs the commune?"
+  },
+  {
+   "id": "c024",
+   "theme": "institutions",
+   "q": "Les élections municipales ont lieu tous les…",
+   "opts": [
+    "6 ans",
+    "5 ans",
+    "4 ans",
+    "7 ans"
+   ],
+   "a": 0,
+   "en": "Municipal elections take place every…"
+  },
+  {
+   "id": "c025",
+   "theme": "institutions",
+   "q": "À partir de quel âge peut-on voter en France ?",
+   "opts": [
+    "18 ans",
+    "16 ans",
+    "21 ans",
+    "20 ans"
+   ],
+   "a": 0,
+   "en": "From what age can you vote in France?"
+  },
+  {
+   "id": "c026",
+   "theme": "institutions",
+   "q": "Le vote est-il obligatoire en France ?",
+   "opts": [
+    "Non",
+    "Oui",
+    "Seulement pour la présidentielle",
+    "Seulement après 25 ans"
+   ],
+   "a": 0,
+   "en": "Is voting compulsory in France?"
+  },
+  {
+   "id": "c027",
+   "theme": "institutions",
+   "q": "Les députés sont élus pour…",
+   "opts": [
+    "5 ans",
+    "6 ans",
+    "3 ans",
+    "9 ans"
+   ],
+   "a": 0,
+   "en": "Deputies are elected for…"
+  },
+  {
+   "id": "c028",
+   "theme": "institutions",
+   "q": "Les sénateurs sont élus…",
+   "opts": [
+    "au suffrage indirect, pour 6 ans",
+    "au suffrage direct, pour 5 ans",
+    "par le président, à vie",
+    "par les députés, pour 4 ans"
+   ],
+   "a": 0,
+   "en": "Senators are elected…",
+   "why": "By an electoral college made up mostly of local councillors."
+  },
+  {
+   "id": "c029",
+   "theme": "institutions",
+   "q": "Quelle est la monnaie de la France ?",
+   "opts": [
+    "L’euro",
+    "Le franc",
+    "La livre",
+    "Le dollar"
+   ],
+   "a": 0,
+   "en": "What is France’s currency?"
+  },
+  {
+   "id": "c030",
+   "theme": "institutions",
+   "q": "La France est l’un des pays fondateurs…",
+   "opts": [
+    "de l’Union européenne",
+    "des États-Unis",
+    "du Commonwealth",
+    "de l’Union africaine"
+   ],
+   "a": 0,
+   "en": "France is one of the founding countries…"
+  },
+  {
+   "id": "c031",
+   "theme": "institutions",
+   "q": "Dans quelle ville siège le Parlement européen ?",
+   "opts": [
+    "Strasbourg",
+    "Paris",
+    "Lyon",
+    "Lille"
+   ],
+   "a": 0,
+   "en": "In which city does the European Parliament sit?"
+  },
+  {
+   "id": "c032",
+   "theme": "droits",
+   "q": "Quel numéro appeler pour une urgence médicale (SAMU) ?",
+   "opts": [
+    "Le 15",
+    "Le 17",
+    "Le 18",
+    "Le 3919"
+   ],
+   "a": 0,
+   "en": "Which number do you call for a medical emergency (SAMU)?"
+  },
+  {
+   "id": "c033",
+   "theme": "droits",
+   "q": "Quel est le numéro de la police ?",
+   "opts": [
+    "Le 17",
+    "Le 15",
+    "Le 18",
+    "Le 115"
+   ],
+   "a": 0,
+   "en": "What is the police number?"
+  },
+  {
+   "id": "c034",
+   "theme": "droits",
+   "q": "Quel est le numéro des pompiers ?",
+   "opts": [
+    "Le 18",
+    "Le 15",
+    "Le 17",
+    "Le 119"
+   ],
+   "a": 0,
+   "en": "What is the fire brigade number?"
+  },
+  {
+   "id": "c035",
+   "theme": "droits",
+   "q": "Quel est le numéro d’urgence européen ?",
+   "opts": [
+    "Le 112",
+    "Le 911",
+    "Le 999",
+    "Le 110"
+   ],
+   "a": 0,
+   "en": "What is the European emergency number?"
+  },
+  {
+   "id": "c036",
+   "theme": "droits",
+   "q": "L’instruction des enfants est obligatoire…",
+   "opts": [
+    "de 3 à 16 ans",
+    "de 6 à 18 ans",
+    "de 5 à 14 ans",
+    "de 2 à 12 ans"
+   ],
+   "a": 0,
+   "en": "Children’s education is compulsory…"
+  },
+  {
+   "id": "c037",
+   "theme": "droits",
+   "q": "Payer ses impôts, c’est…",
+   "opts": [
+    "un devoir",
+    "un choix personnel",
+    "seulement pour les Français",
+    "seulement pour les entreprises"
+   ],
+   "a": 0,
+   "en": "Paying your taxes is…"
+  },
+  {
+   "id": "c038",
+   "theme": "droits",
+   "q": "La liberté d’expression permet-elle d’appeler à la haine ?",
+   "opts": [
+    "Non, elle a des limites fixées par la loi",
+    "Oui, on peut tout dire",
+    "Oui, sur Internet seulement",
+    "Oui, si on est majeur"
+   ],
+   "a": 0,
+   "en": "Does freedom of expression allow inciting hatred?"
+  },
+  {
+   "id": "c039",
+   "theme": "droits",
+   "q": "Un employeur peut-il refuser d’embaucher une personne à cause de son origine ?",
+   "opts": [
+    "Non, c’est une discrimination interdite par la loi",
+    "Oui, s’il le souhaite",
+    "Oui, dans les petites entreprises",
+    "Seulement pour les CDD"
+   ],
+   "a": 0,
+   "en": "Can an employer refuse to hire someone because of their origin?"
+  },
+  {
+   "id": "c040",
+   "theme": "droits",
+   "q": "Qui peut se marier en France ?",
+   "opts": [
+    "Deux personnes majeures, de même sexe ou de sexe différent",
+    "Seulement un homme et une femme",
+    "Seulement des personnes de nationalité française",
+    "Seulement des personnes de même religion"
+   ],
+   "a": 0,
+   "en": "Who can marry in France?",
+   "why": "Marriage for same-sex couples since 2013."
+  },
+  {
+   "id": "c041",
+   "theme": "droits",
+   "q": "Le mariage forcé en France est…",
+   "opts": [
+    "interdit",
+    "autorisé avec l’accord des parents",
+    "autorisé après 18 ans",
+    "une tradition acceptée"
+   ],
+   "a": 0,
+   "en": "Forced marriage in France is…"
+  },
+  {
+   "id": "c042",
+   "theme": "droits",
+   "q": "Les violences au sein du couple sont…",
+   "opts": [
+    "punies par la loi",
+    "une affaire privée",
+    "autorisées dans le mariage",
+    "punies seulement en cas de blessure grave"
+   ],
+   "a": 0,
+   "en": "Domestic violence is…"
+  },
+  {
+   "id": "c043",
+   "theme": "droits",
+   "q": "Pour voter à l’élection présidentielle, il faut…",
+   "opts": [
+    "avoir la nationalité française",
+    "habiter en France depuis 5 ans",
+    "avoir une carte de résident",
+    "être propriétaire"
+   ],
+   "a": 0,
+   "en": "To vote in the presidential election you must…"
+  },
+  {
+   "id": "c044",
+   "theme": "droits",
+   "q": "Un citoyen européen qui habite en France peut voter…",
+   "opts": [
+    "aux élections municipales et européennes",
+    "à toutes les élections",
+    "à l’élection présidentielle seulement",
+    "à aucune élection"
+   ],
+   "a": 0,
+   "en": "An EU citizen living in France can vote…"
+  },
+  {
+   "id": "c045",
+   "theme": "droits",
+   "q": "Pour un même travail, une femme et un homme doivent…",
+   "opts": [
+    "recevoir le même salaire",
+    "travailler des heures différentes",
+    "avoir des contrats différents",
+    "être payés selon leur âge"
+   ],
+   "a": 0,
+   "en": "For the same job, a woman and a man must…"
+  },
+  {
+   "id": "c046",
+   "theme": "histoire",
+   "q": "Que s’est-il passé le 14 juillet 1789 ?",
+   "opts": [
+    "La prise de la Bastille",
+    "La fin de la Seconde Guerre mondiale",
+    "Le couronnement de Napoléon",
+    "La création de l’euro"
+   ],
+   "a": 0,
+   "en": "What happened on 14 July 1789?"
+  },
+  {
+   "id": "c047",
+   "theme": "histoire",
+   "q": "En quelle année les femmes ont-elles obtenu le droit de vote ?",
+   "opts": [
+    "1944",
+    "1789",
+    "1918",
+    "1968"
+   ],
+   "a": 0,
+   "en": "In what year did women get the right to vote?",
+   "why": "They voted for the first time in 1945."
+  },
+  {
+   "id": "c048",
+   "theme": "histoire",
+   "q": "En quelle année l’esclavage a-t-il été définitivement aboli en France ?",
+   "opts": [
+    "1848",
+    "1789",
+    "1905",
+    "1962"
+   ],
+   "a": 0,
+   "en": "In what year was slavery definitively abolished in France?"
+  },
+  {
+   "id": "c049",
+   "theme": "histoire",
+   "q": "Qui a lancé l’appel du 18 juin 1940 ?",
+   "opts": [
+    "Le général de Gaulle",
+    "Napoléon",
+    "Jean Jaurès",
+    "Victor Hugo"
+   ],
+   "a": 0,
+   "en": "Who made the appeal of 18 June 1940?"
+  },
+  {
+   "id": "c050",
+   "theme": "histoire",
+   "q": "Le 11 novembre, on commémore…",
+   "opts": [
+    "l’armistice de 1918",
+    "la prise de la Bastille",
+    "la victoire de 1945",
+    "la fête du Travail"
+   ],
+   "a": 0,
+   "en": "On 11 November we commemorate…"
+  },
+  {
+   "id": "c051",
+   "theme": "histoire",
+   "q": "Le 8 mai, on commémore…",
+   "opts": [
+    "la victoire de 1945",
+    "l’armistice de 1918",
+    "la Révolution",
+    "la création de l’Union européenne"
+   ],
+   "a": 0,
+   "en": "On 8 May we commemorate…"
+  },
+  {
+   "id": "c052",
+   "theme": "histoire",
+   "q": "Quelle est la capitale de la France ?",
+   "opts": [
+    "Paris",
+    "Lyon",
+    "Marseille",
+    "Bordeaux"
+   ],
+   "a": 0,
+   "en": "What is the capital of France?"
+  },
+  {
+   "id": "c053",
+   "theme": "histoire",
+   "q": "Quel est le plus haut sommet de France ?",
+   "opts": [
+    "Le mont Blanc",
+    "Le Puy de Dôme",
+    "Le mont Ventoux",
+    "Le Canigou"
+   ],
+   "a": 0,
+   "en": "What is France’s highest mountain?"
+  },
+  {
+   "id": "c054",
+   "theme": "histoire",
+   "q": "Quel est le plus long fleuve entièrement français ?",
+   "opts": [
+    "La Loire",
+    "La Seine",
+    "Le Rhône",
+    "La Garonne"
+   ],
+   "a": 0,
+   "en": "What is the longest river entirely in France?"
+  },
+  {
+   "id": "c055",
+   "theme": "histoire",
+   "q": "Combien y a-t-il de régions en France métropolitaine ?",
+   "opts": [
+    "13",
+    "22",
+    "27",
+    "101"
+   ],
+   "a": 0,
+   "en": "How many regions are there in mainland France?",
+   "why": "101 is the number of départements."
+  },
+  {
+   "id": "c056",
+   "theme": "histoire",
+   "q": "Qui a écrit « Les Misérables » ?",
+   "opts": [
+    "Victor Hugo",
+    "Molière",
+    "Émile Zola",
+    "Albert Camus"
+   ],
+   "a": 0,
+   "en": "Who wrote Les Misérables?"
+  },
+  {
+   "id": "c057",
+   "theme": "histoire",
+   "q": "Quel océan borde la côte ouest de la France ?",
+   "opts": [
+    "L’océan Atlantique",
+    "L’océan Indien",
+    "L’océan Pacifique",
+    "L’océan Arctique"
+   ],
+   "a": 0,
+   "en": "Which ocean borders France’s west coast?"
+  },
+  {
+   "id": "c058",
+   "theme": "histoire",
+   "q": "En quelle année la Sécurité sociale a-t-elle été créée ?",
+   "opts": [
+    "1945",
+    "1905",
+    "1968",
+    "1981"
+   ],
+   "a": 0,
+   "en": "In what year was Social Security created?"
+  },
+  {
+   "id": "c059",
+   "theme": "societe",
+   "q": "Combien de semaines de congés payés un salarié à temps plein a-t-il par an ?",
+   "opts": [
+    "5 semaines",
+    "2 semaines",
+    "3 semaines",
+    "8 semaines"
+   ],
+   "a": 0,
+   "en": "How many weeks of paid holiday does a full-time employee get per year?"
+  },
+  {
+   "id": "c060",
+   "theme": "societe",
+   "q": "Quelle est la durée légale du travail par semaine ?",
+   "opts": [
+    "35 heures",
+    "39 heures",
+    "40 heures",
+    "32 heures"
+   ],
+   "a": 0,
+   "en": "What is the legal working week?",
+   "why": "Overtime is possible beyond it."
+  },
+  {
+   "id": "c061",
+   "theme": "societe",
+   "q": "À quoi sert la carte Vitale ?",
+   "opts": [
+    "À être remboursé de ses soins par l’Assurance maladie",
+    "À voter",
+    "À prendre le train",
+    "À payer ses impôts"
+   ],
+   "a": 0,
+   "en": "What is the carte Vitale for?"
+  },
+  {
+   "id": "c062",
+   "theme": "societe",
+   "q": "Le PACS, c’est…",
+   "opts": [
+    "un contrat d’union entre deux personnes majeures",
+    "un permis de conduire",
+    "une aide pour le logement",
+    "un diplôme"
+   ],
+   "a": 0,
+   "en": "What is a PACS?",
+   "why": "Civil partnership, created in 1999."
+  },
+  {
+   "id": "c063",
+   "theme": "societe",
+   "q": "Où est-il interdit de fumer ?",
+   "opts": [
+    "Dans les lieux publics fermés, comme les bars et les restaurants",
+    "Seulement dans les hôpitaux",
+    "Nulle part",
+    "Seulement dans la rue"
+   ],
+   "a": 0,
+   "en": "Where is smoking banned?"
+  },
+  {
+   "id": "c064",
+   "theme": "societe",
+   "q": "Où est célébré le mariage civil ?",
+   "opts": [
+    "À la mairie",
+    "À la préfecture",
+    "Au tribunal",
+    "À l’église"
+   ],
+   "a": 0,
+   "en": "Where is a civil marriage held?",
+   "why": "A civil marriage must come before any religious ceremony."
+  },
+  {
+   "id": "c065",
+   "theme": "societe",
+   "q": "Une association « loi 1901 », c’est…",
+   "opts": [
+    "un groupe de personnes qui s’unissent pour un projet commun, sans but lucratif",
+    "une entreprise qui doit faire des bénéfices",
+    "un parti politique obligatoire",
+    "un service de l’État"
+   ],
+   "a": 0,
+   "en": "What is a ‘loi 1901’ association?"
+  }
+ ]
+}

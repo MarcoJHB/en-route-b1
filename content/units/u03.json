@@ -1,0 +1,213 @@
+{
+  "id": "u03",
+  "week": 3,
+  "level": "A1+ → A2",
+  "theme": "House & home",
+  "title": "Le week-end dernier",
+  "grammarFocus": "Passé composé with avoir",
+  "intro": "Your first real past tense. Most verbs build the passé composé with **avoir** + a past participle: *j’ai mangé, on a fait, ils ont vu*. This week is about telling people what you did — at home, in the garden and with friends.",
+  "grammar": [
+    {
+      "id": "u03g1",
+      "title": "Passé composé: avoir + participle",
+      "body": "<p>The passé composé tells what <strong>happened</strong>: a finished action. It has two parts: <strong>avoir</strong> in the present + the <strong>past participle</strong>.</p><table><tr><th>Infinitive</th><th>Participle</th><th>Example</th></tr><tr><td>-er: regard<strong>er</strong></td><td>regard<strong>é</strong></td><td>j’ai regardé</td></tr><tr><td>-ir: fin<strong>ir</strong></td><td>fin<strong>i</strong></td><td>tu as fini</td></tr><tr><td>-re: attend<strong>re</strong></td><td>attend<strong>u</strong></td><td>il a attendu</td></tr></table><table><tr><th>avoir</th><th></th></tr><tr><td>j’<strong>ai</strong> mangé</td><td>nous <strong>avons</strong> mangé</td></tr><tr><td>tu <strong>as</strong> mangé</td><td>vous <strong>avez</strong> mangé</td></tr><tr><td>il / elle / on <strong>a</strong> mangé</td><td>ils / elles <strong>ont</strong> mangé</td></tr></table><div class=\"rule\"><strong>Negative:</strong> <em>ne … pas</em> goes around <strong>avoir</strong>: <em>Je <strong>n’</strong>ai <strong>pas</strong> regardé le match.</em></div>",
+      "examples": [
+        ["Hier, j’ai regardé un film.", "Yesterday I watched a film."],
+        ["On a fini les travaux !", "We’ve finished the work!"],
+        ["Ils ont attendu le bus pendant une heure.", "They waited an hour for the bus."],
+        ["Je n’ai pas rangé ma chambre.", "I didn’t tidy my room."]
+      ]
+    },
+    {
+      "id": "u03g2",
+      "title": "Irregular participles and time words",
+      "body": "<p>The most common verbs have irregular participles. Learn them as a set:</p><table><tr><th>Verb</th><th>Participle</th><th>Verb</th><th>Participle</th></tr><tr><td>faire</td><td><strong>fait</strong></td><td>avoir</td><td><strong>eu</strong></td></tr><tr><td>prendre</td><td><strong>pris</strong></td><td>être</td><td><strong>été</strong></td></tr><tr><td>mettre</td><td><strong>mis</strong></td><td>voir</td><td><strong>vu</strong></td></tr><tr><td>dire</td><td><strong>dit</strong></td><td>boire</td><td><strong>bu</strong></td></tr><tr><td>écrire</td><td><strong>écrit</strong></td><td>lire</td><td><strong>lu</strong></td></tr><tr><td>peindre</td><td><strong>peint</strong></td><td>pouvoir</td><td><strong>pu</strong></td></tr></table><p>Time words that call for the passé composé: <strong>hier</strong>, <strong>le week-end dernier</strong>, <strong>la semaine dernière</strong>, <strong>il y a deux jours</strong> (two days ago), <strong>ce matin</strong>.</p><div class=\"tip\">Short adverbs sit between avoir and the participle: <em>J’ai <strong>déjà</strong> mangé. On a <strong>bien</strong> dormi.</em></div>",
+      "examples": [
+        ["Qu’est-ce que tu as fait ce week-end ?", "What did you do this weekend?"],
+        ["Nous avons pris un verre avec des amis.", "We had a drink with friends."],
+        ["Il y a deux jours, j’ai vu Thomas.", "Two days ago I saw Thomas."],
+        ["Tu as déjà lu ce livre ?", "Have you already read this book?"]
+      ]
+    }
+  ],
+  "vocab": [
+    { "id": "u03v01", "fr": "hier", "en": "yesterday", "ex": "Hier, il a plu toute la journée.", "exEn": "Yesterday it rained all day." },
+    { "id": "u03v02", "fr": "le week-end dernier", "en": "last weekend", "ex": "Le week-end dernier, on a rangé le garage.", "exEn": "Last weekend we tidied the garage." },
+    { "id": "u03v03", "fr": "la semaine dernière", "en": "last week", "ex": "La semaine dernière, j’ai beaucoup travaillé.", "exEn": "Last week I worked a lot." },
+    { "id": "u03v04", "fr": "il y a deux jours", "en": "two days ago", "ex": "J’ai appelé ma mère il y a deux jours.", "exEn": "I called my mother two days ago.", "note": "*il y a* + duration = “ago”." },
+    { "id": "u03v05", "fr": "déjà", "en": "already; ever", "ex": "Tu as déjà mangé ?", "exEn": "Have you already eaten?" },
+    { "id": "u03v06", "fr": "regarder un film", "en": "to watch a film", "ex": "On a regardé un film d’horreur.", "exEn": "We watched a horror film." },
+    { "id": "u03v07", "fr": "ranger", "en": "to tidy, put away", "ex": "J’ai rangé mon bureau.", "exEn": "I tidied my desk." },
+
+    { "id": "u03v08", "fr": "faire les courses", "en": "to do the shopping", "ex": "Samedi, on a fait les courses.", "exEn": "On Saturday we did the shopping." },
+    { "id": "u03v09", "fr": "prendre un verre", "en": "to have a drink", "ex": "On a pris un verre en terrasse.", "exEn": "We had a drink on a terrace." },
+    { "id": "u03v10", "fr": "voir des amis", "en": "to see friends", "ex": "J’ai vu des amis vendredi soir.", "exEn": "I saw friends on Friday night." },
+    { "id": "u03v11", "fr": "boire", "en": "to drink", "ex": "Qu’est-ce que tu as bu ?", "exEn": "What did you drink?" },
+    { "id": "u03v12", "fr": "lire", "en": "to read", "ex": "J’ai lu le journal ce matin.", "exEn": "I read the paper this morning." },
+    { "id": "u03v13", "fr": "écrire", "en": "to write", "ex": "Il a écrit un message à son voisin.", "exEn": "He wrote a message to his neighbour." },
+    { "id": "u03v14", "fr": "mettre", "en": "to put; to put on", "ex": "Où est-ce que tu as mis les clés ?", "exEn": "Where did you put the keys?" },
+
+    { "id": "u03v15", "fr": "le jardin", "en": "garden", "g": "m", "ex": "Le jardin est plus grand que prévu.", "exEn": "The garden is bigger than expected." },
+    { "id": "u03v16", "fr": "tondre la pelouse", "en": "to mow the lawn", "ex": "J’ai tondu la pelouse hier.", "exEn": "I mowed the lawn yesterday.", "note": "Participle: **tondu**." },
+    { "id": "u03v17", "fr": "bricoler", "en": "to do DIY", "ex": "Mon voisin adore bricoler.", "exEn": "My neighbour loves DIY." },
+    { "id": "u03v18", "fr": "peindre", "en": "to paint", "ex": "Nous avons peint la cuisine en vert.", "exEn": "We painted the kitchen green." },
+    { "id": "u03v19", "fr": "nettoyer", "en": "to clean", "ex": "Tu as nettoyé la salle de bains ?", "exEn": "Did you clean the bathroom?" },
+    { "id": "u03v20", "fr": "les travaux", "en": "building work, renovation", "g": "m", "ex": "Les travaux ont duré trois mois.", "exEn": "The work lasted three months." },
+    { "id": "u03v21", "fr": "le voisin", "en": "neighbour (m)", "g": "m", "ex": "Le voisin nous a prêté une échelle.", "exEn": "The neighbour lent us a ladder.", "note": "Feminine: *la voisine*." },
+
+    { "id": "u03v22", "fr": "inviter", "en": "to invite", "ex": "On a invité les voisins à dîner.", "exEn": "We invited the neighbours to dinner." },
+    { "id": "u03v23", "fr": "le repas", "en": "meal", "g": "m", "ex": "Le repas a duré quatre heures !", "exEn": "The meal lasted four hours!" },
+    { "id": "u03v24", "fr": "l’anniversaire", "en": "birthday", "g": "m", "alt": ["l'anniversaire"], "ex": "On a fêté l’anniversaire de Claire.", "exEn": "We celebrated Claire’s birthday." },
+    { "id": "u03v25", "fr": "discuter", "en": "to chat, discuss", "ex": "Nous avons discuté jusqu’à minuit.", "exEn": "We chatted until midnight." },
+    { "id": "u03v26", "fr": "rire", "en": "to laugh", "ex": "On a beaucoup ri.", "exEn": "We laughed a lot.", "note": "Participle: **ri**." },
+    { "id": "u03v27", "fr": "oublier", "en": "to forget", "ex": "J’ai oublié son prénom.", "exEn": "I forgot his first name." },
+    { "id": "u03v28", "fr": "passer une bonne soirée", "en": "to have a good evening", "ex": "Merci, on a passé une très bonne soirée.", "exEn": "Thanks, we had a lovely evening." }
+  ],
+  "lessons": [
+    {
+      "id": "u03l1",
+      "title": "Hier et le week-end dernier",
+      "intro": "How the passé composé is built, with regular verbs.",
+      "vocab": ["u03v01", "u03v02", "u03v03", "u03v04", "u03v05", "u03v06", "u03v07"],
+      "grammar": "u03g1",
+      "steps": [
+        { "t": "cloze", "q": "Hier, j’___ regardé un film.", "a": ["ai"], "full": "Hier, j’ai regardé un film.", "en": "Yesterday I watched a film." },
+        { "t": "cloze", "q": "Nous ___ rangé le garage.", "a": ["avons"], "en": "We tidied the garage." },
+        { "t": "cloze", "q": "Tu as ___ (finir) ton travail ?", "a": ["fini"], "en": "Have you finished your work?" },
+        { "t": "cloze", "q": "Ils ont ___ (attendre) longtemps.", "a": ["attendu"], "en": "They waited a long time." },
+        { "t": "choice", "q": "Where does *ne … pas* go?", "opts": ["Je n’ai pas regardé.", "Je n’ai regardé pas.", "Je ne pas ai regardé."], "a": 0 },
+        { "t": "choice", "q": "*Il y a deux jours* means:", "opts": ["two days ago", "there are two days", "in two days"], "a": 0 },
+        { "t": "order", "fr": "Le week-end dernier, on a rangé la maison.", "en": "Last weekend we tidied the house." },
+        { "t": "type", "q": "Translate: **Have you already eaten?** (*tu*)", "a": ["Tu as déjà mangé ?", "As-tu déjà mangé ?", "Est-ce que tu as déjà mangé ?"] }
+      ]
+    },
+    {
+      "id": "u03l2",
+      "title": "Faire, prendre, voir…",
+      "intro": "The irregular participles you’ll use every day.",
+      "vocab": ["u03v08", "u03v09", "u03v10", "u03v11", "u03v12", "u03v13", "u03v14"],
+      "grammar": "u03g2",
+      "steps": [
+        { "t": "dialogue", "title": "Lundi matin", "lines": [
+          ["Claire", "Tu as passé un bon week-end ?", "Did you have a good weekend?"],
+          ["Lucas", "Oui ! Samedi, j’ai fait les courses et j’ai lu au soleil.", "Yes! On Saturday I did the shopping and read in the sun."],
+          ["Claire", "Et dimanche ?", "And Sunday?"],
+          ["Lucas", "J’ai vu des amis. On a pris un verre sur le port.", "I saw some friends. We had a drink at the harbour."],
+          ["Claire", "Vous avez bu quoi ?", "What did you drink?"],
+          ["Lucas", "Un petit verre de vin blanc. Et toi ?", "A small glass of white wine. And you?"]
+        ]},
+        { "t": "choice", "q": "What did Lucas do on Sunday?", "opts": ["He saw friends and had a drink", "He did the shopping", "He read in the sun", "He worked"], "a": 0 },
+        { "t": "choice", "q": "faire →", "opts": ["fait", "faisé", "fai"], "a": 0 },
+        { "t": "choice", "q": "prendre →", "opts": ["pris", "prendu", "pri"], "a": 0 },
+        { "t": "cloze", "q": "J’ai ___ (voir) un bon film.", "a": ["vu"], "en": "I saw a good film." },
+        { "t": "cloze", "q": "Il a ___ (mettre) son manteau.", "a": ["mis"], "en": "He put on his coat." },
+        { "t": "cloze", "q": "Nous avons ___ (lire) l’article.", "a": ["lu"], "en": "We read the article." },
+        { "t": "type", "q": "Translate: **What did you do this weekend?** (*tu*)", "a": ["Qu’est-ce que tu as fait ce week-end ?", "Qu'est-ce que tu as fait ce week-end ?", "Tu as fait quoi ce week-end ?"] }
+      ]
+    },
+    {
+      "id": "u03l3",
+      "title": "Les travaux de la maison",
+      "intro": "Garden, paint and DIY — all in the past.",
+      "vocab": ["u03v15", "u03v16", "u03v17", "u03v18", "u03v19", "u03v20", "u03v21"],
+      "steps": [
+        { "t": "cloze", "q": "Samedi, nous avons ___ (peindre) la chambre.", "a": ["peint"], "en": "On Saturday we painted the bedroom." },
+        { "t": "cloze", "q": "J’ai ___ (tondre) la pelouse.", "a": ["tondu"], "en": "I mowed the lawn." },
+        { "t": "cloze", "q": "Tu as ___ (nettoyer) la cuisine ?", "a": ["nettoyé"], "en": "Did you clean the kitchen?" },
+        { "t": "choice", "q": "*Les travaux* means:", "opts": ["building work", "jobs, employment", "the travels"], "a": 0, "why": "*Le travail* is work/job; *les travaux* is construction or renovation work." },
+        { "t": "listen", "fr": "Le voisin nous a prêté une échelle.", "opts": ["The neighbour lent us a ladder.", "The neighbour sold us a ladder.", "We lent the neighbour a ladder."], "a": 0 },
+        { "t": "order", "fr": "Les travaux ont duré trois mois.", "en": "The work lasted three months." },
+        { "t": "type", "q": "Translate: **We didn’t paint the kitchen.** (use *on*)", "a": ["On n’a pas peint la cuisine.", "On n'a pas peint la cuisine.", "On a pas peint la cuisine."] }
+      ]
+    },
+    {
+      "id": "u03l4",
+      "title": "Une soirée entre amis",
+      "intro": "Invitations, a long meal, and how the evening went.",
+      "vocab": ["u03v22", "u03v23", "u03v24", "u03v25", "u03v26", "u03v27", "u03v28"],
+      "steps": [
+        { "t": "cloze", "q": "On a ___ (inviter) les voisins.", "a": ["invité"], "en": "We invited the neighbours." },
+        { "t": "cloze", "q": "Nous avons beaucoup ___ (rire).", "a": ["ri"], "en": "We laughed a lot." },
+        { "t": "cloze", "q": "J’ai ___ (oublier) le dessert !", "a": ["oublié"], "en": "I forgot the dessert!" },
+        { "t": "choice", "q": "Ils ___ discuté jusqu’à minuit.", "opts": ["ont", "sont", "avons"], "a": 0 },
+        { "t": "listen", "fr": "On a passé une très bonne soirée.", "opts": ["We had a lovely evening.", "We’ll have a lovely evening.", "We spent the evening at home."], "a": 0 },
+        { "t": "order", "fr": "Le repas a duré quatre heures.", "en": "The meal lasted four hours." },
+        { "t": "type", "q": "Translate: **We celebrated her birthday.** (use *on*; *fêter*)", "a": ["On a fêté son anniversaire."] }
+      ]
+    }
+  ],
+  "drills": [
+    { "id": "u03d01", "l": "u03l1", "t": "cloze", "q": "Elle ___ mangé au restaurant.", "a": ["a"], "en": "She ate at the restaurant." },
+    { "id": "u03d02", "l": "u03l1", "t": "cloze", "q": "Vous ___ fini ?", "a": ["avez"], "en": "Have you finished?" },
+    { "id": "u03d03", "l": "u03l1", "t": "cloze", "q": "J’ai ___ (vendre) ma voiture.", "a": ["vendu"], "en": "I sold my car." },
+    { "id": "u03d04", "l": "u03l1", "t": "type", "q": "Translate: **I didn’t watch the match.**", "a": ["Je n’ai pas regardé le match.", "Je n'ai pas regardé le match."] },
+    { "id": "u03d05", "l": "u03l2", "t": "cloze", "q": "Qu’est-ce que vous avez ___ (faire) hier ?", "a": ["fait"], "en": "What did you do yesterday?" },
+    { "id": "u03d06", "l": "u03l2", "t": "cloze", "q": "Ils ont ___ (prendre) le train.", "a": ["pris"], "en": "They took the train." },
+    { "id": "u03d07", "l": "u03l2", "t": "cloze", "q": "Tu as ___ (boire) trop de café.", "a": ["bu"], "en": "You’ve drunk too much coffee." },
+    { "id": "u03d08", "l": "u03l2", "t": "cloze", "q": "J’ai ___ (avoir) un problème avec la voiture.", "a": ["eu"], "en": "I had a problem with the car." },
+    { "id": "u03d09", "l": "u03l2", "t": "cloze", "q": "Elle a ___ (écrire) une lettre au notaire.", "a": ["écrit"], "en": "She wrote a letter to the notary." },
+    { "id": "u03d10", "l": "u03l2", "t": "cloze", "q": "Il m’a ___ (dire) bonjour.", "a": ["dit"], "en": "He said hello to me." },
+    { "id": "u03d11", "l": "u03l3", "t": "type", "q": "Translate: **We painted the living room.** (*nous*; le salon)", "a": ["Nous avons peint le salon."] },
+    { "id": "u03d12", "l": "u03l3", "t": "type", "q": "Translate: **Did you mow the lawn?** (*tu*)", "a": ["Tu as tondu la pelouse ?", "As-tu tondu la pelouse ?", "Est-ce que tu as tondu la pelouse ?"] },
+    { "id": "u03d13", "l": "u03l4", "t": "cloze", "q": "Nous avons ___ (passer) une bonne soirée.", "a": ["passé"], "en": "We had a good evening." },
+    { "id": "u03d14", "l": "u03l4", "t": "type", "q": "Translate: **I forgot his name.** (son nom)", "a": ["J’ai oublié son nom.", "J'ai oublié son nom."] },
+    { "id": "u03d15", "l": "u03l4", "t": "order", "fr": "Ils n’ont pas invité leurs voisins.", "en": "They didn’t invite their neighbours." },
+    { "id": "u03d16", "l": "u03l4", "t": "cloze", "q": "On a ___ (pouvoir) finir avant minuit.", "a": ["pu"], "en": "We managed to finish before midnight." }
+  ],
+  "dictation": [
+    { "fr": "Hier, j’ai regardé un film avec Claire.", "en": "Yesterday I watched a film with Claire." },
+    { "fr": "Le week-end dernier, on a peint la cuisine.", "en": "Last weekend we painted the kitchen." },
+    { "fr": "Tu as déjà lu ce livre ?", "en": "Have you already read this book?" },
+    { "fr": "Nous avons pris un verre sur le port.", "en": "We had a drink at the harbour." },
+    { "fr": "Je n’ai pas tondu la pelouse.", "en": "I didn’t mow the lawn." },
+    { "fr": "Ils ont invité tous les voisins.", "en": "They invited all the neighbours." },
+    { "fr": "Il y a deux jours, j’ai vu Thomas.", "en": "Two days ago I saw Thomas." },
+    { "fr": "On a beaucoup ri pendant le repas.", "en": "We laughed a lot during the meal." },
+    { "fr": "Qu’est-ce que vous avez fait hier soir ?", "en": "What did you do last night?" }
+  ],
+  "speaking": [
+    { "type": "repeat", "fr": "Qu’est-ce que tu as fait ce week-end ?", "en": "What did you do this weekend?" },
+    { "type": "repeat", "fr": "J’ai fait les courses et j’ai rangé la maison.", "en": "I did the shopping and tidied the house." },
+    { "type": "repeat", "fr": "Nous avons peint la chambre en bleu.", "en": "We painted the bedroom blue." },
+    { "type": "repeat", "fr": "On a passé une très bonne soirée.", "en": "We had a really good evening." },
+    { "type": "answer", "q": "Qu’est-ce que vous avez fait le week-end dernier ?", "qEn": "What did you do last weekend?", "hint": "samedi, j’ai… dimanche, on a…", "sample": "Samedi, j’ai fait les courses au marché. Dimanche, on a vu des amis et on a déjeuné ensemble.", "sampleEn": "On Saturday I did the shopping at the market. On Sunday we saw friends and had lunch together." },
+    { "type": "answer", "q": "Qu’est-ce que vous avez mangé hier soir ?", "qEn": "What did you eat last night?", "hint": "j’ai mangé du / de la…, j’ai bu…", "sample": "Hier soir, j’ai mangé du poisson avec des légumes et j’ai bu un verre d’eau.", "sampleEn": "Last night I ate fish with vegetables and drank a glass of water." },
+    { "type": "answer", "q": "Vous avez déjà fait des travaux chez vous ?", "qEn": "Have you ever done building work at home?", "hint": "peindre, nettoyer, bricoler", "sample": "Oui, nous avons peint le salon et j’ai changé les prises électriques dans la cuisine.", "sampleEn": "Yes, we painted the living room and I changed the sockets in the kitchen." },
+    { "type": "answer", "q": "Racontez une bonne soirée avec des amis.", "qEn": "Tell me about a good evening with friends.", "hint": "inviter, discuter, rire", "sample": "Le mois dernier, on a invité des amis à dîner. On a discuté, on a beaucoup ri et ils sont partis à une heure du matin.", "sampleEn": "Last month we invited friends for dinner. We chatted, laughed a lot and they left at one in the morning." }
+  ],
+  "reading": {
+    "title": "Un week-end de travaux",
+    "text": "Le week-end dernier, Marco et Claire n’ont pas vu leurs amis : ils ont fait des travaux. Samedi matin, Marco a vidé la chambre d’amis. Il a mis les meubles dans le salon et il a protégé le sol avec des vieux draps.\nL’après-midi, ils ont peint les murs. Claire a choisi un vert très clair. Ils ont travaillé pendant cinq heures et ils ont oublié de déjeuner ! Le soir, ils ont commandé des pizzas et ils ont regardé un film, mais Marco a dormi pendant le film.\nDimanche, il a fait beau. Claire a tondu la pelouse et Marco a nettoyé les pinceaux. Le voisin, Monsieur Bernard, a regardé la chambre et il a dit : « C’est très joli. Vous avez bien travaillé ! »",
+    "en": "Last weekend Marco and Claire didn’t see their friends: they did some work on the house. On Saturday morning Marco emptied the guest room. He put the furniture in the living room and protected the floor with old sheets.\nIn the afternoon they painted the walls. Claire chose a very pale green. They worked for five hours and forgot to have lunch! In the evening they ordered pizzas and watched a film, but Marco slept through the film.\nOn Sunday the weather was nice. Claire mowed the lawn and Marco cleaned the brushes. The neighbour, Mr Bernard, looked at the room and said: “It’s very pretty. You’ve done a good job!”",
+    "gloss": { "vidé": "emptied", "chambre": "bedroom (chambre d’amis = guest room)", "meubles": "furniture", "salon": "living room", "protégé": "protected", "sol": "floor", "vieux": "old", "draps": "sheets", "murs": "walls", "choisi": "chose", "clair": "light, pale", "commandé": "ordered", "dormi": "slept", "pinceaux": "paintbrushes", "joli": "pretty", "pendant": "during, for" },
+    "questions": [
+      { "q": "Pourquoi n’ont-ils pas vu leurs amis ?", "opts": ["Ils ont fait des travaux", "Ils étaient malades", "Leurs amis sont partis"], "a": 0 },
+      { "q": "De quelle couleur sont les murs maintenant ?", "opts": ["Vert clair", "Bleu", "Blanc"], "a": 0 },
+      { "q": "Qu’est-ce qu’ils ont oublié samedi ?", "opts": ["De déjeuner", "D’acheter de la peinture", "D’appeler le voisin"], "a": 0 },
+      { "q": "Qu’est-ce que le voisin pense de la chambre ?", "opts": ["Elle est très jolie", "Elle est trop verte", "Il n’a rien dit"], "a": 0 }
+    ]
+  },
+  "civicsReading": {
+    "title": "Le président et les élections",
+    "text": "En France, le président de la République est élu au suffrage universel direct : ce sont les citoyens qui votent pour lui. Il est élu pour cinq ans. On appelle cette durée le quinquennat. Il ne peut pas faire plus de deux mandats de suite.\nL’élection présidentielle a deux tours. Si un candidat a plus de la moitié des voix au premier tour, il est élu. Sinon, les deux premiers candidats vont au second tour.\nLe président habite et travaille au palais de l’Élysée, à Paris. Il nomme le Premier ministre. Il est aussi le chef des armées.\nPour voter, il faut avoir la nationalité française, avoir dix-huit ans et être inscrit sur les listes électorales. Le vote est secret et il n’est pas obligatoire. Les citoyens européens qui habitent en France peuvent voter aux élections municipales et européennes.",
+    "en": "In France the President of the Republic is elected by direct universal suffrage: the citizens vote for him or her. The President is elected for five years. This term is called the quinquennat. A president cannot serve more than two terms in a row.\nThe presidential election has two rounds. If a candidate gets more than half the votes in the first round, they are elected. Otherwise the top two candidates go through to the second round.\nThe President lives and works at the Élysée Palace in Paris, appoints the Prime Minister, and is also head of the armed forces.\nTo vote you must have French nationality, be 18 and be registered on the electoral rolls. Voting is secret and not compulsory. EU citizens living in France can vote in municipal and European elections.",
+    "gloss": { "élu": "elected", "suffrage": "suffrage, vote", "citoyens": "citizens", "votent": "vote", "durée": "length, duration", "mandats": "terms of office", "suite": "(de suite = in a row)", "tours": "rounds", "moitié": "half", "voix": "votes; voice", "sinon": "otherwise", "nomme": "appoints", "chef": "head, chief", "armées": "armed forces", "inscrit": "registered", "listes": "lists (listes électorales = electoral roll)", "obligatoire": "compulsory" },
+    "questions": [
+      { "q": "Pour combien de temps le président est-il élu ?", "opts": ["Cinq ans", "Sept ans", "Quatre ans"], "a": 0 },
+      { "q": "Combien de tours a l’élection présidentielle ?", "opts": ["Deux, si personne n’a la majorité au premier", "Un seul", "Trois"], "a": 0 },
+      { "q": "Qui nomme le Premier ministre ?", "opts": ["Le président de la République", "Les députés", "Les citoyens"], "a": 0 },
+      { "q": "Le vote est-il obligatoire en France ?", "opts": ["Non", "Oui", "Seulement pour la présidentielle"], "a": 0 }
+    ]
+  },
+  "writing": {
+    "id": "u03w",
+    "title": "Mon week-end",
+    "prompt": "Écrivez un message à un ami pour raconter votre week-end dernier. (70–90 mots)",
+    "promptEn": "Write a message to a friend about what you did last weekend. (70–90 words)",
+    "minWords": 70,
+    "useful": ["samedi matin / l’après-midi / le soir", "j’ai fait, j’ai vu, j’ai pris, j’ai lu", "on a + participe", "je n’ai pas…", "c’était super / sympa (it was great / nice)"],
+    "checklist": ["I used at least six verbs in the passé composé", "At least three of them are irregular (fait, pris, vu, lu, mis…)", "I wrote one negative (je n’ai pas…)", "I used hier / le week-end dernier / il y a", "I opened and closed like a real message (Salut… / Bises)"],
+    "model": "Salut Thomas ! Le week-end dernier, on n’a pas beaucoup dormi. Samedi matin, j’ai fait les courses au marché et j’ai pris un café avec Claire. L’après-midi, on a peint la chambre d’amis en vert. Le soir, on a commandé des pizzas et on a regardé un film. Dimanche, il a fait beau : j’ai tondu la pelouse et j’ai lu dans le jardin. Je n’ai pas travaillé du tout ! Et toi ? Bises, Marco",
+    "modelEn": "Hi Thomas! Last weekend we didn’t sleep much. On Saturday morning I did the shopping at the market and had a coffee with Claire. In the afternoon we painted the guest room green. In the evening we ordered pizzas and watched a film. On Sunday the weather was nice: I mowed the lawn and read in the garden. I didn’t work at all! And you? Love, Marco"
+  }
+}

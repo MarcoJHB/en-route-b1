@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>En route B1</title>
+  <meta name="description" content="A personal French course from A1 to B1, with spaced repetition, drills, dictation, speaking and civic exam practice.">
+  <meta name="theme-color" content="#1f2a44">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a href="#/" class="brand" aria-label="Home">
+      <span class="brand-mark" aria-hidden="true">B1</span>
+      <span class="brand-name">En route</span>
+    </a>
+    <div class="topbar-right">
+      <span id="sync-status" class="sync-pill" title="Sync status"></span>
+      <span id="today-minutes" class="minutes-pill" title="Minutes studied today"></span>
+    </div>
+  </header>
+
+  <main id="view" tabindex="-1"></main>
+
+  <nav class="tabbar" aria-label="Main">
+    <a href="#/" data-tab="home"><span class="tab-ico" aria-hidden="true">☀</span><span>Today</span></a>
+    <a href="#/review" data-tab="review"><span class="tab-ico" aria-hidden="true">↻</span><span>Review</span></a>
+    <a href="#/practice" data-tab="practice"><span class="tab-ico" aria-hidden="true">✎</span><span>Practice</span></a>
+    <a href="#/course" data-tab="course"><span class="tab-ico" aria-hidden="true">☰</span><span>Course</span></a>
+    <a href="#/civics" data-tab="civics"><span class="tab-ico" aria-hidden="true">⚑</span><span>Civics</span></a>
+  </nav>
+
+  <div id="toast" role="status" aria-live="polite"></div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

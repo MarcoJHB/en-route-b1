@@ -1,0 +1,77 @@
+{
+  "summary": "48 weeks from solid A1 to B1, about 45–60 minutes a day. Each week is one unit: four lessons, grammar drills, dictation, speaking, a graded reading, a writing task and a civics text. Months 9–12 add civic-exam mock tests and B1 exam practice.",
+  "months": [
+    { "n": 1, "title": "Everyday France", "level": "A1+", "weeks": [
+      { "w": 1, "unit": "u01", "title": "Au marché et à la boulangerie", "grammar": "Partitive articles: du, de la, des, pas de", "civics": "Symbols of the Republic" },
+      { "w": 2, "unit": "u02", "title": "Ma journée", "grammar": "Reflexive verbs, telling the time", "civics": "Laïcité" },
+      { "w": 3, "unit": "u03", "title": "Le week-end dernier", "grammar": "Passé composé with avoir", "civics": "The President and elections" },
+      { "w": 4, "unit": "u04", "title": "Sorties et voyages", "grammar": "Passé composé with être", "civics": "Rights and duties" }
+    ]},
+    { "n": 2, "title": "Home and people", "level": "A2", "weeks": [
+      { "w": 5, "title": "À la maison", "grammar": "Direct object pronouns: le, la, les", "civics": "Parliament: Assemblée and Sénat" },
+      { "w": 6, "title": "Chez le médecin", "grammar": "Futur proche, avoir mal à", "civics": "Social security and health" },
+      { "w": 7, "title": "La famille", "grammar": "Indirect object pronouns: lui, leur", "civics": "Equality between women and men" },
+      { "w": 8, "title": "Acheter une maison", "grammar": "Comparatives and superlatives", "civics": "Local government: the commune and the maire" }
+    ]},
+    { "n": 3, "title": "Stories and paperwork", "level": "A2", "weeks": [
+      { "w": 9, "title": "Souvenirs d’enfance", "grammar": "Imparfait: forms and uses", "civics": "The French Revolution" },
+      { "w": 10, "title": "Une drôle d’histoire", "grammar": "Imparfait vs passé composé", "civics": "The two World Wars" },
+      { "w": 11, "title": "À la poste et à la banque", "grammar": "Pronouns y and en", "civics": "Taxes and public services" },
+      { "w": 12, "title": "Les démarches", "grammar": "Negation: ne… jamais / plus / rien / personne", "civics": "The Constitution of 1958" }
+    ]},
+    { "n": 4, "title": "Plans and projects", "level": "A2", "weeks": [
+      { "w": 13, "title": "Les travaux", "grammar": "Futur simple", "civics": "The European Union" },
+      { "w": 14, "title": "Décrire et expliquer", "grammar": "Relative pronouns qui, que, où", "civics": "School and education" },
+      { "w": 15, "title": "Recettes et conseils", "grammar": "Imperative with pronouns", "civics": "French regions and geography" },
+      { "w": 16, "title": "Révision A2", "grammar": "Review + A2 checkpoint test", "civics": "Review quiz" }
+    ]},
+    { "n": 5, "title": "Wishes and rules", "level": "A2+", "weeks": [
+      { "w": 17, "title": "Si j’étais riche…", "grammar": "Conditionnel présent (politeness, wishes)", "civics": "Freedom of expression and the press" },
+      { "w": 18, "title": "Hypothèses", "grammar": "Si + présent / si + imparfait", "civics": "Justice and the courts" },
+      { "w": 19, "title": "À la préfecture", "grammar": "Il faut, devoir, pouvoir", "civics": "Residence permits and the civic contract" },
+      { "w": 20, "title": "Comment faire ?", "grammar": "Adverbs in -ment", "civics": "Work: contracts and rights" }
+    ]},
+    { "n": 6, "title": "Feelings and opinions", "level": "A2+", "weeks": [
+      { "w": 21, "title": "Il faut que tu viennes", "grammar": "Subjonctif présent: forms after il faut que", "civics": "Secularism in daily life" },
+      { "w": 22, "title": "Je veux que…", "grammar": "Subjonctif after wishes and feelings", "civics": "Family law: marriage, PACS, children" },
+      { "w": 23, "title": "Depuis quand ?", "grammar": "Time: depuis, il y a, pendant, dans", "civics": "Great French figures" },
+      { "w": 24, "title": "Bilan A2", "grammar": "Full A2 mock test", "civics": "Review quiz" }
+    ]},
+    { "n": 7, "title": "Telling it well", "level": "B1−", "weeks": [
+      { "w": 25, "title": "Avant, j’avais déjà…", "grammar": "Plus-que-parfait", "civics": "Colonisation and decolonisation" },
+      { "w": 26, "title": "Il m’a dit que…", "grammar": "Reported speech (present)", "civics": "Political parties and voting" },
+      { "w": 27, "title": "Le mien, le tien", "grammar": "Possessive and demonstrative pronouns", "civics": "Culture: literature and cinema" },
+      { "w": 28, "title": "Ce dont j’ai besoin", "grammar": "Dont, ce qui, ce que", "civics": "Environment and the Charter" }
+    ]},
+    { "n": 8, "title": "Arguing and connecting", "level": "B1−", "weeks": [
+      { "w": 29, "title": "En marchant", "grammar": "Gérondif", "civics": "Associations and volunteering" },
+      { "w": 30, "title": "Il a été construit…", "grammar": "Passive voice", "civics": "Monuments and heritage" },
+      { "w": 31, "title": "Parce que, donc", "grammar": "Cause and consequence connectors", "civics": "Defence and national service" },
+      { "w": 32, "title": "À mon avis", "grammar": "Giving opinions; je ne pense pas que + subjonctif", "civics": "Fighting discrimination" }
+    ]},
+    { "n": 9, "title": "Regrets and conditions", "level": "B1", "weeks": [
+      { "w": 33, "title": "J’aurais dû…", "grammar": "Conditionnel passé", "civics": "Mock civic exam #1" },
+      { "w": 34, "title": "Si j’avais su…", "grammar": "Si + plus-que-parfait", "civics": "Overseas France" },
+      { "w": 35, "title": "Bien que…", "grammar": "Opposition and concession", "civics": "Mock civic exam #2" },
+      { "w": 36, "title": "Révision", "grammar": "Review of months 7–9", "civics": "Weak-theme drill" }
+    ]},
+    { "n": 10, "title": "Formal French", "level": "B1", "weeks": [
+      { "w": 37, "title": "Pour que…", "grammar": "Expressing purpose", "civics": "Mock civic exam #3" },
+      { "w": 38, "title": "Il m’avait dit que…", "grammar": "Reported speech (past)", "civics": "Institutions deep dive" },
+      { "w": 39, "title": "Je le lui ai donné", "grammar": "Double object pronouns", "civics": "History deep dive" },
+      { "w": 40, "title": "Madame, Monsieur", "grammar": "Formal letters and emails", "civics": "Mock civic exam #4" }
+    ]},
+    { "n": 11, "title": "France today", "level": "B1", "weeks": [
+      { "w": 41, "title": "Débattre", "grammar": "Structuring an argument", "civics": "Values deep dive" },
+      { "w": 42, "title": "Les médias", "grammar": "Understanding the news", "civics": "Mock civic exam #5" },
+      { "w": 43, "title": "La vie politique", "grammar": "Political vocabulary", "civics": "Rights and duties deep dive" },
+      { "w": 44, "title": "Test blanc B1", "grammar": "B1 mock: listening and reading", "civics": "Mock civic exam #6" }
+    ]},
+    { "n": 12, "title": "Exam ready", "level": "B1", "weeks": [
+      { "w": 45, "title": "Compréhension orale", "grammar": "TCF/DELF listening strategies", "civics": "Mock civic exam #7" },
+      { "w": 46, "title": "Compréhension écrite", "grammar": "Reading strategies", "civics": "Weak-theme drill" },
+      { "w": 47, "title": "Production écrite", "grammar": "Writing tasks under time", "civics": "Mock civic exam #8" },
+      { "w": 48, "title": "Production orale", "grammar": "Speaking tasks and final mock", "civics": "Final mock" }
+    ]}
+  ]
+}
